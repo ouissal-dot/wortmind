@@ -1,1 +1,1 @@
-Streamlit==version 1.56.0
+streamlit==1.32.0

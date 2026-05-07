@@ -1,13 +1,315 @@
+
 {
     "Box 1": [
         {
-            "de": "handy",
-            "ar": "هاتف",
-            "sentence": "das Meine handy"
+            "de": "die Software",
+            "ar": "البرنامج",
+            "sentence": "Diese Software ist sehr nützlich für Entwickler."
+        },
+        {
+            "de": "der Computer",
+            "ar": "الحاسوب",
+            "sentence": "Ich arbeite jeden Tag am Computer."
+        },
+        {
+            "de": "die Tastatur",
+            "ar": "لوحة المفاتيح",
+            "sentence": "Meine Tastatur ist kabellos."
+        },
+        {
+            "de": "der Bildschirm",
+            "ar": "الشاشة",
+            "sentence": "Der Bildschirm ist zu hell eingestellt."
+        },
+        {
+            "de": "die Datei",
+            "ar": "الملف",
+            "sentence": "Ich habe die Datei gespeichert."
+        },
+        {
+            "de": "der Ordner",
+            "ar": "المجلد",
+            "sentence": "Die Dateien sind im Ordner gespeichert."
+        },
+        {
+            "de": "das Passwort",
+            "ar": "كلمة المرور",
+            "sentence": "Du musst ein sicheres Passwort wählen."
+        },
+        {
+            "de": "die Verbindung",
+            "ar": "الاتصال",
+            "sentence": "Die Internetverbindung ist heute sehr langsam."
+        },
+        {
+            "de": "herunterladen",
+            "ar": "تنزيل",
+            "sentence": "Ich möchte diese App herunterladen."
+        },
+        {
+            "de": "hochladen",
+            "ar": "رفع / تحميل",
+            "sentence": "Kannst du das Bild hochladen?"
+        },
+        {
+            "de": "die Programmierung",
+            "ar": "البرمجة",
+            "sentence": "Die Programmierung macht mir viel Spaß."
+        },
+        {
+            "de": "der Code",
+            "ar": "الكود / الشيفرة",
+            "sentence": "Dieser Code hat einen Fehler."
+        },
+        {
+            "de": "der Fehler",
+            "ar": "الخطأ",
+            "sentence": "Es gibt einen Fehler in der Anwendung."
+        },
+        {
+            "de": "die Anwendung",
+            "ar": "التطبيق",
+            "sentence": "Diese Anwendung läuft auf Android und iOS."
+        },
+        {
+            "de": "speichern",
+            "ar": "حفظ",
+            "sentence": "Vergiss nicht, die Arbeit zu speichern."
+        },
+        {
+            "de": "die Datenbank",
+            "ar": "قاعدة البيانات",
+            "sentence": "Die Datenbank enthält alle Nutzerinformationen."
+        },
+        {
+            "de": "das Netzwerk",
+            "ar": "الشبكة",
+            "sentence": "Das Netzwerk ist ausgefallen."
+        },
+        {
+            "de": "die Schnittstelle",
+            "ar": "الواجهة / واجهة البرمجة",
+            "sentence": "Wir nutzen eine API als Schnittstelle."
+        },
+        {
+            "de": "aktualisieren",
+            "ar": "تحديث",
+            "sentence": "Du solltest die App aktualisieren."
+        },
+        {
+            "de": "die Sicherheit",
+            "ar": "الأمان",
+            "sentence": "Die Sicherheit der Daten ist sehr wichtig."
         }
     ],
-    "Box 2": [],
-    "Box 3": [],
+    "Box 2": [
+    {
+      "de": "erklären",
+      "ar": "يشرح",
+      "sentence": "Kannst du mir das erklären?"
+    },
+    {
+      "de": "entscheiden",
+      "ar": "يقرر",
+      "sentence": "Ich muss mich schnell entscheiden."
+    },
+    {
+      "de": "verbessern",
+      "ar": "يحسّن",
+      "sentence": "Ich möchte mein Deutsch verbessern."
+    },
+    {
+      "de": "erreichen",
+      "ar": "يصل إلى / يحقق",
+      "sentence": "Sie hat ihr Ziel erreicht."
+    },
+    {
+      "de": "vermeiden",
+      "ar": "يتجنب",
+      "sentence": "Du solltest Fehler vermeiden."
+    },
+    {
+      "de": "vorschlagen",
+      "ar": "يقترح",
+      "sentence": "Ich möchte eine Lösung vorschlagen."
+    },
+    {
+      "de": "überzeugen",
+      "ar": "يقنع",
+      "sentence": "Er hat mich überzeugt, das Projekt zu starten."
+    },
+    {
+      "de": "vergleichen",
+      "ar": "يقارن",
+      "sentence": "Wir können die beiden Methoden vergleichen."
+    },
+    {
+      "de": "annehmen",
+      "ar": "يقبل / يفترض",
+      "sentence": "Ich nehme an, dass das stimmt."
+    },
+    {
+      "de": "aufhören",
+      "ar": "يتوقف",
+      "sentence": "Hör auf, so viel zu arbeiten!"
+    },
+    {
+      "de": "bemerken",
+      "ar": "يلاحظ",
+      "sentence": "Ich habe den Fehler sofort bemerkt."
+    },
+    {
+      "de": "sich kümmern um",
+      "ar": "يهتم بـ / يعتني بـ",
+      "sentence": "Er kümmert sich um das Projekt."
+    },
+    {
+      "de": "versprechen",
+      "ar": "يعد / يتعهد",
+      "sentence": "Ich verspreche, pünktlich zu sein."
+    },
+    {
+      "de": "sich vorstellen",
+      "ar": "يتخيل / يعرّف بنفسه",
+      "sentence": "Stell dir vor, du lebst in Berlin."
+    },
+    {
+      "de": "zweifeln",
+      "ar": "يشك",
+      "sentence": "Ich zweifle an seiner Aussage."
+    },
+    {
+      "de": "schaffen",
+      "ar": "يتمكن / ينجز",
+      "sentence": "Ich habe es endlich geschafft!"
+    },
+    {
+      "de": "sich beschweren",
+      "ar": "يشتكي",
+      "sentence": "Er hat sich über den Service beschwert."
+    },
+    {
+      "de": "erwarten",
+      "ar": "يتوقع",
+      "sentence": "Ich erwarte eine Antwort bis morgen."
+    },
+    {
+      "de": "nutzen",
+      "ar": "يستخدم / يستفيد من",
+      "sentence": "Wir nutzen moderne Technologie im Alltag."
+    },
+    {
+      "de": "sich konzentrieren",
+      "ar": "يركز",
+      "sentence": "Ich muss mich mehr konzentrieren."
+    }],
+
+
+
+
+    "Box 3": [
+    {
+      "de": "machen",
+      "ar": "يفعل / يصنع",
+      "sentence": "Was machst du heute Abend?"
+    },
+    {
+      "de": "gehen",
+      "ar": "يذهب",
+      "sentence": "Ich gehe jeden Morgen spazieren."
+    },
+    {
+      "de": "kommen",
+      "ar": "يأتي",
+      "sentence": "Wann kommst du nach Hause?"
+    },
+    {
+      "de": "sehen",
+      "ar": "يرى",
+      "sentence": "Ich sehe ein Problem in diesem Code."
+    },
+    {
+      "de": "sagen",
+      "ar": "يقول",
+      "sentence": "Was hast du gerade gesagt?"
+    },
+    {
+      "de": "wissen",
+      "ar": "يعلم / يعرف",
+      "sentence": "Ich weiß nicht, wie das funktioniert."
+    },
+    {
+      "de": "denken",
+      "ar": "يفكر",
+      "sentence": "Ich denke, das ist eine gute Idee."
+    },
+    {
+      "de": "fragen",
+      "ar": "يسأل",
+      "sentence": "Darf ich dich etwas fragen?"
+    },
+    {
+      "de": "arbeiten",
+      "ar": "يعمل",
+      "sentence": "Sie arbeitet als Entwicklerin."
+    },
+    {
+      "de": "brauchen",
+      "ar": "يحتاج",
+      "sentence": "Ich brauche mehr Zeit für diese Aufgabe."
+    },
+    {
+      "de": "helfen",
+      "ar": "يساعد",
+      "sentence": "Kannst du mir helfen?"
+    },
+    {
+      "de": "verstehen",
+      "ar": "يفهم",
+      "sentence": "Ich verstehe diese Erklärung nicht."
+    },
+    {
+      "de": "lesen",
+      "ar": "يقرأ",
+      "sentence": "Er liest jeden Tag die Nachrichten."
+    },
+    {
+      "de": "schreiben",
+      "ar": "يكتب",
+      "sentence": "Ich schreibe gerade eine E-Mail."
+    },
+    {
+      "de": "leben",
+      "ar": "يعيش",
+      "sentence": "Sie lebt seit drei Jahren in Deutschland."
+    },
+    {
+      "de": "kaufen",
+      "ar": "يشتري",
+      "sentence": "Ich möchte einen neuen Laptop kaufen."
+    },
+    {
+      "de": "beginnen",
+      "ar": "يبدأ",
+      "sentence": "Der Kurs beginnt um neun Uhr."
+    },
+    {
+      "de": "bleiben",
+      "ar": "يبقى",
+      "sentence": "Ich bleibe heute zu Hause."
+    },
+    {
+      "de": "geben",
+      "ar": "يعطي",
+      "sentence": "Kannst du mir bitte den Code geben?"
+    },
+    {
+      "de": "lernen",
+      "ar": "يتعلم",
+      "sentence": "Ich lerne jeden Tag neue Wörter."
+    }],
+    
     "Box 4": [],
     "Box 5": []
 }
+   

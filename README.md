@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
 ![CI Status](https://github.com/ouissal-dot/wortmind/actions/workflows/python-app.yml/badge.svg)
-![Learning Level](https://img.shields.io/badge/Learning-A2--B1--B2-orange)
+
 
 ## 🚀 Overview
 **WortMind** is an interactive, flashcard-based learning application designed to help students master German vocabulary. Built with Python, it focuses on bridging the gap between Arabic and German by providing contextual examples and structured vocabulary management.

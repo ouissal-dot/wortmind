@@ -34,14 +34,15 @@ if len(words) > 0:
     word = st.session_state.current_word
 
     if not st.session_state.show_answer:
+        
         st.markdown(
-            f"""
-            <div style="background:#fff; border:1px solid #ddd; border-radius:16px;
-            padding:3rem; text-align:center; font-size:2rem; font-weight:500;">
+        f"""
+        <div style="background:#fff; color:#1e1e1e; border:1px solid #ddd; border-radius:16px;
+        padding:3rem; text-align:center; font-size:2rem; font-weight:500;">
             🇩🇪 {word['de']}
-            </div>
-            """, unsafe_allow_html=True
-        )
+        </div>
+        """, unsafe_allow_html=True
+    )
         if st.button("Flip Card ↩️", use_container_width=True):
             st.session_state.show_answer = True
             st.rerun()

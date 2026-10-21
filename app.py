@@ -39,7 +39,7 @@ if len(words) > 0:
         f"""
         <div style="background:#fff; color:#1e1e1e; border:1px solid #ddd; border-radius:16px;
         padding:3rem; text-align:center; font-size:2rem; font-weight:500;">
-            🇩🇪 {word['de']}
+             {word['de']}
         </div>
         """, unsafe_allow_html=True
     )
@@ -51,7 +51,7 @@ if len(words) > 0:
             f"""
             <div style="background:#EEEDFE; border:1px solid #AFA9EC; border-radius:16px;
             padding:3rem; text-align:center;">
-            <div style="font-size:1.8rem; font-weight:500; color:#3C3489;">{word['ar']} 🇸🇦</div>
+            <div style="font-size:1.8rem; font-weight:500; color:#3C3489;">{word['ar']} </div>
             <div style="margin-top:1rem; font-style:italic; color:#534AB7;">✍️ {word['sentence']}</div>
             </div>
             """, unsafe_allow_html=True

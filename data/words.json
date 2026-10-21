@@ -1,315 +1,5022 @@
-
 {
-    "Box 1": [
+    "1 - Verben": [
         {
-            "de": "die Software",
-            "ar": "البرنامج",
-            "sentence": "Diese Software ist sehr nützlich für Entwickler."
+            "de": "sein",
+            "ar": "يكون",
+            "sentence": "Ich bin heute sehr müde."
+        },
+        {
+            "de": "haben",
+            "ar": "يملك",
+            "sentence": "Wir haben ein neues Auto."
+        },
+        {
+            "de": "werden",
+            "ar": "يصبح",
+            "sentence": "Er wird bald Arzt."
+        },
+        {
+            "de": "können",
+            "ar": "يستطيع",
+            "sentence": "Sie kann gut schwimmen."
+        },
+        {
+            "de": "müssen",
+            "ar": "يجب",
+            "sentence": "Ich muss jetzt nach Hause gehen."
+        },
+        {
+            "de": "wollen",
+            "ar": "يريد",
+            "sentence": "Er will einen Kaffee trinken."
+        },
+        {
+            "de": "sollen",
+            "ar": "ينبغي",
+            "sentence": "Du sollst mehr Wasser trinken."
+        },
+        {
+            "de": "dürfen",
+            "ar": "يُسمح له",
+            "sentence": "Hier darf man nicht rauchen."
+        },
+        {
+            "de": "machen",
+            "ar": "يفعل",
+            "sentence": "Was machst du am Wochenende?"
+        },
+        {
+            "de": "gehen",
+            "ar": "يذهب",
+            "sentence": "Ich gehe jeden Tag zur Schule."
+        },
+        {
+            "de": "kommen",
+            "ar": "يأتي",
+            "sentence": "Der Bus kommt in fünf Minuten."
+        },
+        {
+            "de": "sehen",
+            "ar": "يرى",
+            "sentence": "Ich sehe einen Vogel im Baum."
+        },
+        {
+            "de": "hören",
+            "ar": "يسمع",
+            "sentence": "Sie hört gern Musik am Abend."
+        },
+        {
+            "de": "sprechen",
+            "ar": "يتكلم",
+            "sentence": "Er spricht sehr gut Deutsch."
+        },
+        {
+            "de": "sagen",
+            "ar": "يقول",
+            "sentence": "Was sagst du dazu?"
+        },
+        {
+            "de": "fragen",
+            "ar": "يسأل",
+            "sentence": "Darf ich dich etwas fragen?"
+        },
+        {
+            "de": "antworten",
+            "ar": "يجيب",
+            "sentence": "Er antwortet auf meine Frage."
+        },
+        {
+            "de": "essen",
+            "ar": "يأكل",
+            "sentence": "Wir essen zusammen zu Mittag."
+        },
+        {
+            "de": "trinken",
+            "ar": "يشرب",
+            "sentence": "Sie trinkt jeden Morgen Tee."
+        },
+        {
+            "de": "schlafen",
+            "ar": "ينام",
+            "sentence": "Das Baby schläft schon."
+        },
+        {
+            "de": "wohnen",
+            "ar": "يسكن",
+            "sentence": "Ich wohne in einer kleinen Stadt."
+        },
+        {
+            "de": "leben",
+            "ar": "يعيش",
+            "sentence": "Meine Oma lebt auf dem Land."
+        },
+        {
+            "de": "arbeiten",
+            "ar": "يعمل",
+            "sentence": "Er arbeitet in einer Bank."
+        },
+        {
+            "de": "lernen",
+            "ar": "يتعلم",
+            "sentence": "Ich lerne jeden Tag neue Wörter."
+        },
+        {
+            "de": "lehren",
+            "ar": "يعلّم",
+            "sentence": "Sie lehrt Mathe an der Schule."
+        },
+        {
+            "de": "lesen",
+            "ar": "يقرأ",
+            "sentence": "Ich lese ein gutes Buch."
+        },
+        {
+            "de": "schreiben",
+            "ar": "يكتب",
+            "sentence": "Er schreibt eine E-Mail an Anna."
+        },
+        {
+            "de": "kaufen",
+            "ar": "يشتري",
+            "sentence": "Ich kaufe Brot und Milch."
+        },
+        {
+            "de": "verkaufen",
+            "ar": "يبيع",
+            "sentence": "Er verkauft sein altes Fahrrad."
+        },
+        {
+            "de": "bezahlen",
+            "ar": "يدفع",
+            "sentence": "Ich bezahle mit der Karte."
+        },
+        {
+            "de": "brauchen",
+            "ar": "يحتاج",
+            "sentence": "Ich brauche einen neuen Stift."
+        },
+        {
+            "de": "geben",
+            "ar": "يعطي",
+            "sentence": "Sie gibt mir das Buch."
+        },
+        {
+            "de": "nehmen",
+            "ar": "يأخذ",
+            "sentence": "Er nimmt den Bus zur Arbeit."
+        },
+        {
+            "de": "bringen",
+            "ar": "يُحضر",
+            "sentence": "Kannst du mir bitte Wasser bringen?"
+        },
+        {
+            "de": "holen",
+            "ar": "يجلب",
+            "sentence": "Ich hole die Kinder von der Schule ab."
+        },
+        {
+            "de": "finden",
+            "ar": "يجد",
+            "sentence": "Ich finde meinen Schlüssel nicht."
+        },
+        {
+            "de": "suchen",
+            "ar": "يبحث",
+            "sentence": "Wir suchen eine neue Wohnung."
+        },
+        {
+            "de": "denken",
+            "ar": "يفكر",
+            "sentence": "Ich denke oft an meine Familie."
+        },
+        {
+            "de": "glauben",
+            "ar": "يعتقد",
+            "sentence": "Ich glaube, du hast recht."
+        },
+        {
+            "de": "wissen",
+            "ar": "يعرف (معلومة)",
+            "sentence": "Ich weiß die Antwort nicht."
+        },
+        {
+            "de": "kennen",
+            "ar": "يعرف (شخصًا)",
+            "sentence": "Ich kenne deinen Bruder gut."
+        },
+        {
+            "de": "verstehen",
+            "ar": "يفهم",
+            "sentence": "Ich verstehe die Frage nicht."
+        },
+        {
+            "de": "erklären",
+            "ar": "يشرح",
+            "sentence": "Der Lehrer erklärt die Aufgabe."
+        },
+        {
+            "de": "zeigen",
+            "ar": "يُظهر",
+            "sentence": "Er zeigt mir den Weg."
+        },
+        {
+            "de": "helfen",
+            "ar": "يساعد",
+            "sentence": "Kannst du mir bitte helfen?"
+        },
+        {
+            "de": "spielen",
+            "ar": "يلعب",
+            "sentence": "Die Kinder spielen im Garten."
+        },
+        {
+            "de": "laufen",
+            "ar": "يركض",
+            "sentence": "Er läuft jeden Morgen im Park."
+        },
+        {
+            "de": "fahren",
+            "ar": "يسافر / يقود",
+            "sentence": "Wir fahren morgen nach Berlin."
+        },
+        {
+            "de": "fliegen",
+            "ar": "يطير",
+            "sentence": "Das Flugzeug fliegt sehr hoch."
+        },
+        {
+            "de": "reisen",
+            "ar": "يسافر",
+            "sentence": "Sie reist gern in andere Länder."
+        },
+        {
+            "de": "besuchen",
+            "ar": "يزور",
+            "sentence": "Ich besuche meine Oma am Sonntag."
+        },
+        {
+            "de": "treffen",
+            "ar": "يقابل",
+            "sentence": "Ich treffe meine Freunde im Café."
+        },
+        {
+            "de": "warten",
+            "ar": "ينتظر",
+            "sentence": "Wir warten auf den Zug."
+        },
+        {
+            "de": "bleiben",
+            "ar": "يبقى",
+            "sentence": "Ich bleibe heute zu Hause."
+        },
+        {
+            "de": "stehen",
+            "ar": "يقف",
+            "sentence": "Der Mann steht an der Tür."
+        },
+        {
+            "de": "sitzen",
+            "ar": "يجلس",
+            "sentence": "Sie sitzt auf dem Sofa."
+        },
+        {
+            "de": "liegen",
+            "ar": "يستلقي",
+            "sentence": "Das Buch liegt auf dem Tisch."
+        },
+        {
+            "de": "stellen",
+            "ar": "يضع (بشكل عمودي)",
+            "sentence": "Ich stelle die Flasche auf den Tisch."
+        },
+        {
+            "de": "legen",
+            "ar": "يضع (بشكل أفقي)",
+            "sentence": "Er legt das Handy auf das Bett."
+        },
+        {
+            "de": "öffnen",
+            "ar": "يفتح",
+            "sentence": "Bitte öffne das Fenster."
+        },
+        {
+            "de": "schließen",
+            "ar": "يغلق",
+            "sentence": "Er schließt die Tür leise."
+        },
+        {
+            "de": "anfangen",
+            "ar": "يبدأ",
+            "sentence": "Der Unterricht fängt um acht an."
+        },
+        {
+            "de": "beginnen",
+            "ar": "يبتدئ",
+            "sentence": "Wir beginnen mit der ersten Übung."
+        },
+        {
+            "de": "enden",
+            "ar": "ينتهي",
+            "sentence": "Der Film endet um zehn Uhr."
+        },
+        {
+            "de": "aufhören",
+            "ar": "يتوقف",
+            "sentence": "Es hört bald auf zu regnen."
+        },
+        {
+            "de": "rufen",
+            "ar": "ينادي",
+            "sentence": "Die Mutter ruft das Kind."
+        },
+        {
+            "de": "anrufen",
+            "ar": "يتصل هاتفيًا",
+            "sentence": "Ich rufe dich heute Abend an."
+        },
+        {
+            "de": "lachen",
+            "ar": "يضحك",
+            "sentence": "Wir lachen viel zusammen."
+        },
+        {
+            "de": "weinen",
+            "ar": "يبكي",
+            "sentence": "Das Kind weint laut."
+        },
+        {
+            "de": "lieben",
+            "ar": "يحب",
+            "sentence": "Ich liebe meine Familie."
+        },
+        {
+            "de": "mögen",
+            "ar": "يستلطف",
+            "sentence": "Ich mag Schokolade sehr gern."
+        },
+        {
+            "de": "hassen",
+            "ar": "يكره",
+            "sentence": "Er hasst kaltes Wetter."
+        },
+        {
+            "de": "hoffen",
+            "ar": "يأمل",
+            "sentence": "Ich hoffe auf gutes Wetter."
+        },
+        {
+            "de": "fürchten",
+            "ar": "يخاف",
+            "sentence": "Das Kind fürchtet den Hund."
+        },
+        {
+            "de": "träumen",
+            "ar": "يحلم",
+            "sentence": "Ich träume von einer Reise."
+        },
+        {
+            "de": "vergessen",
+            "ar": "ينسى",
+            "sentence": "Ich vergesse oft meinen Schirm."
+        },
+        {
+            "de": "erinnern",
+            "ar": "يتذكر",
+            "sentence": "Ich erinnere mich an den Urlaub."
+        },
+        {
+            "de": "merken",
+            "ar": "يلاحظ",
+            "sentence": "Ich merke den Fehler sofort."
+        },
+        {
+            "de": "wählen",
+            "ar": "يختار",
+            "sentence": "Sie wählt das blaue Kleid."
+        },
+        {
+            "de": "entscheiden",
+            "ar": "يقرر",
+            "sentence": "Wir entscheiden das heute."
+        },
+        {
+            "de": "versuchen",
+            "ar": "يحاول",
+            "sentence": "Ich versuche es noch einmal."
+        },
+        {
+            "de": "schaffen",
+            "ar": "ينجح في",
+            "sentence": "Wir schaffen das zusammen."
+        },
+        {
+            "de": "gewinnen",
+            "ar": "يفوز",
+            "sentence": "Unsere Mannschaft gewinnt das Spiel."
+        },
+        {
+            "de": "verlieren",
+            "ar": "يخسر",
+            "sentence": "Er verliert oft seine Schlüssel."
+        },
+        {
+            "de": "kochen",
+            "ar": "يطبخ",
+            "sentence": "Mein Vater kocht heute Suppe."
+        },
+        {
+            "de": "backen",
+            "ar": "يخبز",
+            "sentence": "Sie backt einen Kuchen."
+        },
+        {
+            "de": "waschen",
+            "ar": "يغسل",
+            "sentence": "Ich wasche die Wäsche."
+        },
+        {
+            "de": "putzen",
+            "ar": "ينظف",
+            "sentence": "Wir putzen am Samstag die Wohnung."
+        },
+        {
+            "de": "schneiden",
+            "ar": "يقطع",
+            "sentence": "Er schneidet das Brot."
+        },
+        {
+            "de": "tragen",
+            "ar": "يحمل / يرتدي",
+            "sentence": "Sie trägt eine rote Jacke."
+        },
+        {
+            "de": "ziehen",
+            "ar": "يسحب",
+            "sentence": "Er zieht die Tür auf."
+        },
+        {
+            "de": "drücken",
+            "ar": "يضغط",
+            "sentence": "Drücken Sie bitte den Knopf."
+        },
+        {
+            "de": "werfen",
+            "ar": "يرمي",
+            "sentence": "Das Kind wirft den Ball."
+        },
+        {
+            "de": "fangen",
+            "ar": "يمسك",
+            "sentence": "Der Hund fängt den Ball."
+        },
+        {
+            "de": "fallen",
+            "ar": "يسقط",
+            "sentence": "Das Glas fällt auf den Boden."
+        },
+        {
+            "de": "steigen",
+            "ar": "يصعد",
+            "sentence": "Wir steigen in den Bus ein."
+        },
+        {
+            "de": "wachsen",
+            "ar": "ينمو",
+            "sentence": "Die Blumen wachsen schnell."
+        },
+        {
+            "de": "schenken",
+            "ar": "يهدي",
+            "sentence": "Ich schenke meiner Mutter Blumen."
+        },
+        {
+            "de": "kosten",
+            "ar": "يكلّف",
+            "sentence": "Das Ticket kostet zehn Euro."
+        },
+        {
+            "de": "beschreiben",
+            "ar": "يصف",
+            "sentence": "Beschreiben Sie bitte das Bild."
+        }
+    ],
+    "2 - Haus & Gegenstände": [
+        {
+            "de": "das Haus",
+            "ar": "المنزل",
+            "sentence": "Das Haus ist groß und alt."
+        },
+        {
+            "de": "die Wohnung",
+            "ar": "الشقة",
+            "sentence": "Meine Wohnung ist sehr hell."
+        },
+        {
+            "de": "das Zimmer",
+            "ar": "الغرفة",
+            "sentence": "Das Zimmer hat zwei Fenster."
+        },
+        {
+            "de": "die Küche",
+            "ar": "المطبخ",
+            "sentence": "Die Küche ist neu und sauber."
+        },
+        {
+            "de": "das Badezimmer",
+            "ar": "الحمام",
+            "sentence": "Das Badezimmer ist klein."
+        },
+        {
+            "de": "das Schlafzimmer",
+            "ar": "غرفة النوم",
+            "sentence": "Im Schlafzimmer steht ein Bett."
+        },
+        {
+            "de": "das Wohnzimmer",
+            "ar": "غرفة المعيشة",
+            "sentence": "Wir sitzen im Wohnzimmer und sehen fern."
+        },
+        {
+            "de": "die Tür",
+            "ar": "الباب",
+            "sentence": "Bitte mach die Tür zu."
+        },
+        {
+            "de": "das Fenster",
+            "ar": "النافذة",
+            "sentence": "Das Fenster ist offen."
+        },
+        {
+            "de": "der Tisch",
+            "ar": "الطاولة",
+            "sentence": "Der Tisch ist aus Holz."
+        },
+        {
+            "de": "der Stuhl",
+            "ar": "الكرسي",
+            "sentence": "Der Stuhl ist sehr bequem."
+        },
+        {
+            "de": "das Bett",
+            "ar": "السرير",
+            "sentence": "Das Bett ist weich."
+        },
+        {
+            "de": "das Sofa",
+            "ar": "الأريكة",
+            "sentence": "Das Sofa steht im Wohnzimmer."
+        },
+        {
+            "de": "der Schrank",
+            "ar": "الخزانة",
+            "sentence": "Die Jacke hängt im Schrank."
+        },
+        {
+            "de": "das Regal",
+            "ar": "الرف",
+            "sentence": "Das Buch steht im Regal."
+        },
+        {
+            "de": "die Lampe",
+            "ar": "المصباح",
+            "sentence": "Die Lampe ist kaputt."
+        },
+        {
+            "de": "der Spiegel",
+            "ar": "المرآة",
+            "sentence": "Ich schaue in den Spiegel."
+        },
+        {
+            "de": "der Teppich",
+            "ar": "السجادة",
+            "sentence": "Der Teppich ist rot."
+        },
+        {
+            "de": "die Wand",
+            "ar": "الجدار",
+            "sentence": "Die Wand ist weiß."
+        },
+        {
+            "de": "der Boden",
+            "ar": "الأرضية",
+            "sentence": "Der Boden ist kalt."
+        },
+        {
+            "de": "die Decke",
+            "ar": "السقف",
+            "sentence": "Die Decke ist sehr hoch."
+        },
+        {
+            "de": "der Garten",
+            "ar": "الحديقة",
+            "sentence": "Wir spielen im Garten."
+        },
+        {
+            "de": "der Balkon",
+            "ar": "الشرفة",
+            "sentence": "Auf dem Balkon wachsen Blumen."
+        },
+        {
+            "de": "die Treppe",
+            "ar": "الدرج",
+            "sentence": "Ich gehe die Treppe hinauf."
+        },
+        {
+            "de": "der Schlüssel",
+            "ar": "المفتاح",
+            "sentence": "Ich suche meinen Schlüssel."
+        },
+        {
+            "de": "das Dach",
+            "ar": "السطح",
+            "sentence": "Das Dach ist neu."
+        },
+        {
+            "de": "der Keller",
+            "ar": "القبو",
+            "sentence": "Das Fahrrad steht im Keller."
+        },
+        {
+            "de": "die Garage",
+            "ar": "المرآب",
+            "sentence": "Das Auto steht in der Garage."
+        },
+        {
+            "de": "der Herd",
+            "ar": "الموقد",
+            "sentence": "Die Suppe steht auf dem Herd."
+        },
+        {
+            "de": "der Kühlschrank",
+            "ar": "الثلاجة",
+            "sentence": "Die Milch ist im Kühlschrank."
+        },
+        {
+            "de": "die Waschmaschine",
+            "ar": "الغسالة",
+            "sentence": "Die Waschmaschine ist laut."
+        },
+        {
+            "de": "der Fernseher",
+            "ar": "التلفاز",
+            "sentence": "Der Fernseher läuft den ganzen Tag."
+        },
+        {
+            "de": "das Radio",
+            "ar": "الراديو",
+            "sentence": "Er hört gern Radio."
         },
         {
             "de": "der Computer",
             "ar": "الحاسوب",
-            "sentence": "Ich arbeite jeden Tag am Computer."
+            "sentence": "Mein Computer ist neu."
         },
         {
-            "de": "die Tastatur",
-            "ar": "لوحة المفاتيح",
-            "sentence": "Meine Tastatur ist kabellos."
+            "de": "das Handy",
+            "ar": "الهاتف المحمول",
+            "sentence": "Mein Handy liegt auf dem Tisch."
         },
         {
-            "de": "der Bildschirm",
-            "ar": "الشاشة",
-            "sentence": "Der Bildschirm ist zu hell eingestellt."
+            "de": "das Telefon",
+            "ar": "الهاتف",
+            "sentence": "Das Telefon klingelt."
         },
         {
-            "de": "die Datei",
-            "ar": "الملف",
-            "sentence": "Ich habe die Datei gespeichert."
+            "de": "das Buch",
+            "ar": "الكتاب",
+            "sentence": "Ich lese ein Buch."
         },
         {
-            "de": "der Ordner",
-            "ar": "المجلد",
-            "sentence": "Die Dateien sind im Ordner gespeichert."
+            "de": "das Heft",
+            "ar": "الدفتر",
+            "sentence": "Ich schreibe ins Heft."
         },
         {
-            "de": "das Passwort",
-            "ar": "كلمة المرور",
-            "sentence": "Du musst ein sicheres Passwort wählen."
+            "de": "der Stift",
+            "ar": "القلم",
+            "sentence": "Hast du einen Stift?"
         },
         {
-            "de": "die Verbindung",
-            "ar": "الاتصال",
-            "sentence": "Die Internetverbindung ist heute sehr langsam."
+            "de": "der Bleistift",
+            "ar": "قلم الرصاص",
+            "sentence": "Ich habe einen Bleistift."
         },
         {
-            "de": "herunterladen",
-            "ar": "تنزيل",
-            "sentence": "Ich möchte diese App herunterladen."
+            "de": "das Papier",
+            "ar": "الورق",
+            "sentence": "Ich brauche ein Blatt Papier."
         },
         {
-            "de": "hochladen",
-            "ar": "رفع / تحميل",
-            "sentence": "Kannst du das Bild hochladen?"
+            "de": "die Tasche",
+            "ar": "الحقيبة",
+            "sentence": "Meine Tasche ist schwer."
         },
         {
-            "de": "die Programmierung",
-            "ar": "البرمجة",
-            "sentence": "Die Programmierung macht mir viel Spaß."
+            "de": "der Rucksack",
+            "ar": "حقيبة الظهر",
+            "sentence": "Er trägt einen Rucksack."
         },
         {
-            "de": "der Code",
-            "ar": "الكود / الشيفرة",
-            "sentence": "Dieser Code hat einen Fehler."
+            "de": "der Koffer",
+            "ar": "حقيبة السفر",
+            "sentence": "Der Koffer ist voll."
+        },
+        {
+            "de": "die Brille",
+            "ar": "النظارات",
+            "sentence": "Er trägt eine Brille."
+        },
+        {
+            "de": "die Uhr",
+            "ar": "الساعة",
+            "sentence": "Wie viel Uhr ist es? Die Uhr zeigt acht."
+        },
+        {
+            "de": "das Geld",
+            "ar": "المال",
+            "sentence": "Ich habe wenig Geld."
+        },
+        {
+            "de": "die Münze",
+            "ar": "العملة المعدنية",
+            "sentence": "Die Münze liegt auf dem Boden."
+        },
+        {
+            "de": "der Geldschein",
+            "ar": "الورقة النقدية",
+            "sentence": "Ich habe einen Geldschein."
+        },
+        {
+            "de": "das Portemonnaie",
+            "ar": "المحفظة",
+            "sentence": "Mein Portemonnaie ist leer."
+        },
+        {
+            "de": "der Regenschirm",
+            "ar": "المظلة",
+            "sentence": "Es regnet, ich nehme einen Regenschirm."
+        },
+        {
+            "de": "die Flasche",
+            "ar": "الزجاجة",
+            "sentence": "Die Flasche ist leer."
+        },
+        {
+            "de": "das Glas",
+            "ar": "الكأس",
+            "sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+            "de": "die Tasse",
+            "ar": "الفنجان",
+            "sentence": "Ich trinke eine Tasse Tee."
+        },
+        {
+            "de": "der Teller",
+            "ar": "الطبق",
+            "sentence": "Der Teller ist sauber."
+        },
+        {
+            "de": "der Löffel",
+            "ar": "الملعقة",
+            "sentence": "Ich esse die Suppe mit dem Löffel."
+        },
+        {
+            "de": "die Gabel",
+            "ar": "الشوكة",
+            "sentence": "Ich esse mit Messer und Gabel."
+        },
+        {
+            "de": "das Messer",
+            "ar": "السكين",
+            "sentence": "Das Messer ist scharf."
+        },
+        {
+            "de": "der Topf",
+            "ar": "القدر",
+            "sentence": "Der Topf ist heiß."
+        },
+        {
+            "de": "die Pfanne",
+            "ar": "المقلاة",
+            "sentence": "Die Pfanne steht auf dem Herd."
+        },
+        {
+            "de": "die Schüssel",
+            "ar": "الوعاء",
+            "sentence": "In der Schüssel ist Salat."
+        },
+        {
+            "de": "das Handtuch",
+            "ar": "المنشفة",
+            "sentence": "Das Handtuch ist nass."
+        },
+        {
+            "de": "die Seife",
+            "ar": "الصابون",
+            "sentence": "Die Seife riecht gut."
+        },
+        {
+            "de": "die Zahnbürste",
+            "ar": "فرشاة الأسنان",
+            "sentence": "Ich putze meine Zähne mit der Zahnbürste."
+        },
+        {
+            "de": "die Zahnpasta",
+            "ar": "معجون الأسنان",
+            "sentence": "Die Zahnpasta ist fast leer."
+        },
+        {
+            "de": "der Kamm",
+            "ar": "المشط",
+            "sentence": "Ich brauche einen Kamm."
+        },
+        {
+            "de": "die Dusche",
+            "ar": "الدش",
+            "sentence": "Ich nehme jeden Morgen eine Dusche."
+        },
+        {
+            "de": "die Badewanne",
+            "ar": "حوض الاستحمام",
+            "sentence": "Die Badewanne ist voll."
+        },
+        {
+            "de": "das Waschbecken",
+            "ar": "المغسلة",
+            "sentence": "Ich wasche mir die Hände im Waschbecken."
+        },
+        {
+            "de": "die Toilette",
+            "ar": "المرحاض",
+            "sentence": "Die Toilette ist links."
+        },
+        {
+            "de": "das Kissen",
+            "ar": "الوسادة",
+            "sentence": "Das Kissen ist sehr weich."
+        },
+        {
+            "de": "die Bettdecke",
+            "ar": "اللحاف",
+            "sentence": "Die Bettdecke ist warm."
+        },
+        {
+            "de": "der Vorhang",
+            "ar": "الستارة",
+            "sentence": "Der Vorhang ist grün."
+        },
+        {
+            "de": "die Kerze",
+            "ar": "الشمعة",
+            "sentence": "Die Kerze brennt."
+        },
+        {
+            "de": "das Feuer",
+            "ar": "النار",
+            "sentence": "Das Feuer ist heiß."
+        },
+        {
+            "de": "der Müll",
+            "ar": "القمامة",
+            "sentence": "Der Müll ist in der Tonne."
+        },
+        {
+            "de": "der Eimer",
+            "ar": "الدلو",
+            "sentence": "Der Eimer ist voll Wasser."
+        },
+        {
+            "de": "der Besen",
+            "ar": "المكنسة",
+            "sentence": "Ich putze mit dem Besen."
+        },
+        {
+            "de": "der Staubsauger",
+            "ar": "المكنسة الكهربائية",
+            "sentence": "Der Staubsauger ist laut."
+        },
+        {
+            "de": "das Werkzeug",
+            "ar": "الأداة",
+            "sentence": "Ich brauche das richtige Werkzeug."
+        },
+        {
+            "de": "der Hammer",
+            "ar": "المطرقة",
+            "sentence": "Er hat einen Hammer."
+        },
+        {
+            "de": "die Schere",
+            "ar": "المقص",
+            "sentence": "Die Schere ist scharf."
+        },
+        {
+            "de": "der Kleber",
+            "ar": "الصمغ",
+            "sentence": "Ich brauche Kleber für das Papier."
+        },
+        {
+            "de": "die Nadel",
+            "ar": "الإبرة",
+            "sentence": "Die Nadel ist sehr spitz."
+        },
+        {
+            "de": "der Faden",
+            "ar": "الخيط",
+            "sentence": "Ich brauche Nadel und Faden."
+        },
+        {
+            "de": "das Seil",
+            "ar": "الحبل",
+            "sentence": "Das Seil ist lang."
+        },
+        {
+            "de": "die Kiste",
+            "ar": "الصندوق",
+            "sentence": "Die Kiste ist schwer."
+        },
+        {
+            "de": "das Foto",
+            "ar": "الصورة الفوتوغرافية",
+            "sentence": "Das Foto ist schön."
+        },
+        {
+            "de": "das Bild",
+            "ar": "اللوحة",
+            "sentence": "Das Bild hängt an der Wand."
+        },
+        {
+            "de": "die Zeitung",
+            "ar": "الجريدة",
+            "sentence": "Mein Vater liest die Zeitung."
+        },
+        {
+            "de": "die Zeitschrift",
+            "ar": "المجلة",
+            "sentence": "Sie liest eine Zeitschrift."
+        },
+        {
+            "de": "der Brief",
+            "ar": "الرسالة",
+            "sentence": "Ich schreibe einen Brief."
+        },
+        {
+            "de": "die Karte",
+            "ar": "البطاقة",
+            "sentence": "Ich habe eine Karte für das Konzert."
+        },
+        {
+            "de": "der Umschlag",
+            "ar": "الظرف",
+            "sentence": "Der Brief ist im Umschlag."
+        },
+        {
+            "de": "das Paket",
+            "ar": "الطرد",
+            "sentence": "Das Paket kommt morgen."
+        },
+        {
+            "de": "die Briefmarke",
+            "ar": "الطابع البريدي",
+            "sentence": "Ich klebe die Briefmarke auf den Brief."
+        },
+        {
+            "de": "der Ausweis",
+            "ar": "بطاقة الهوية",
+            "sentence": "Ich zeige meinen Ausweis."
+        },
+        {
+            "de": "der Reisepass",
+            "ar": "جواز السفر",
+            "sentence": "Mein Reisepass ist noch gültig."
+        },
+        {
+            "de": "das Ticket",
+            "ar": "التذكرة",
+            "sentence": "Ich kaufe ein Ticket für den Zug."
+        },
+        {
+            "de": "die Kamera",
+            "ar": "الكاميرا",
+            "sentence": "Die Kamera ist neu."
+        }
+    ],
+    "3 - Essen & Trinken": [
+        {
+            "de": "das Brot",
+            "ar": "الخبز",
+            "sentence": "Ich esse jeden Morgen frisches Brot."
+        },
+        {
+            "de": "das Brötchen",
+            "ar": "الخبز الصغير",
+            "sentence": "Am Sonntag kaufe ich ein Brötchen."
+        },
+        {
+            "de": "der Käse",
+            "ar": "الجبن",
+            "sentence": "Der Käse schmeckt sehr gut."
+        },
+        {
+            "de": "die Butter",
+            "ar": "الزبدة",
+            "sentence": "Ich brauche Butter für den Kuchen."
+        },
+        {
+            "de": "die Milch",
+            "ar": "الحليب",
+            "sentence": "Ich trinke jeden Tag ein Glas Milch."
+        },
+        {
+            "de": "das Ei",
+            "ar": "البيضة",
+            "sentence": "Zum Frühstück esse ich ein Ei."
+        },
+        {
+            "de": "das Fleisch",
+            "ar": "اللحم",
+            "sentence": "Wir essen heute Fleisch mit Gemüse."
+        },
+        {
+            "de": "das Hähnchen",
+            "ar": "الدجاج",
+            "sentence": "Das Hähnchen ist noch im Ofen."
+        },
+        {
+            "de": "das Rindfleisch",
+            "ar": "لحم البقر",
+            "sentence": "Mein Vater kauft Rindfleisch für den Eintopf."
+        },
+        {
+            "de": "der Fisch",
+            "ar": "السمك",
+            "sentence": "Ich esse am Freitag gern Fisch."
+        },
+        {
+            "de": "der Reis",
+            "ar": "الأرز",
+            "sentence": "Zum Essen gibt es Reis und Gemüse."
+        },
+        {
+            "de": "die Nudeln",
+            "ar": "المعكرونة",
+            "sentence": "Ich koche heute Nudeln mit Soße."
+        },
+        {
+            "de": "die Kartoffel",
+            "ar": "البطاطس",
+            "sentence": "Die Kartoffel ist noch nicht gar."
+        },
+        {
+            "de": "die Tomate",
+            "ar": "الطماطم",
+            "sentence": "Eine Tomate liegt auf dem Teller."
+        },
+        {
+            "de": "die Gurke",
+            "ar": "الخيار",
+            "sentence": "Die Gurke ist frisch und knackig."
+        },
+        {
+            "de": "die Zwiebel",
+            "ar": "البصل",
+            "sentence": "Ich schneide eine Zwiebel für die Suppe."
+        },
+        {
+            "de": "der Knoblauch",
+            "ar": "الثوم",
+            "sentence": "Der Knoblauch riecht sehr stark."
+        },
+        {
+            "de": "die Karotte",
+            "ar": "الجزر",
+            "sentence": "Die Karotte ist gut für die Augen."
+        },
+        {
+            "de": "der Salat",
+            "ar": "السلطة",
+            "sentence": "Ich mache heute einen gemischten Salat."
+        },
+        {
+            "de": "der Pilz",
+            "ar": "الفطر",
+            "sentence": "Ich brate einen Pilz in der Pfanne."
+        },
+        {
+            "de": "die Paprika",
+            "ar": "الفلفل",
+            "sentence": "Die Paprika ist rot und süß."
+        },
+        {
+            "de": "die Bohne",
+            "ar": "الفاصولياء",
+            "sentence": "Ich esse gern grüne Bohnen."
+        },
+        {
+            "de": "die Erbse",
+            "ar": "البازلاء",
+            "sentence": "Die Erbsen sind klein und grün."
+        },
+        {
+            "de": "der Mais",
+            "ar": "الذرة",
+            "sentence": "Der Mais wächst auf dem Feld."
+        },
+        {
+            "de": "der Apfel",
+            "ar": "التفاحة",
+            "sentence": "Ich esse jeden Tag einen Apfel."
+        },
+        {
+            "de": "die Birne",
+            "ar": "الإجاصة",
+            "sentence": "Die Birne ist reif und saftig."
+        },
+        {
+            "de": "die Banane",
+            "ar": "الموزة",
+            "sentence": "Die Banane ist gelb."
+        },
+        {
+            "de": "die Orange",
+            "ar": "البرتقالة",
+            "sentence": "Ich möchte eine Orange essen."
+        },
+        {
+            "de": "die Zitrone",
+            "ar": "الليمونة",
+            "sentence": "Ich presse eine Zitrone für den Tee."
+        },
+        {
+            "de": "die Traube",
+            "ar": "العنب",
+            "sentence": "Die Trauben sind süß und klein."
+        },
+        {
+            "de": "die Erdbeere",
+            "ar": "الفراولة",
+            "sentence": "Ich kaufe Erdbeeren auf dem Markt."
+        },
+        {
+            "de": "die Kirsche",
+            "ar": "الكرز",
+            "sentence": "Die Kirsche ist rot und rund."
+        },
+        {
+            "de": "der Pfirsich",
+            "ar": "الخوخ",
+            "sentence": "Der Pfirsich schmeckt im Sommer besonders gut."
+        },
+        {
+            "de": "die Melone",
+            "ar": "الشمام",
+            "sentence": "Die Melone ist schwer und süß."
+        },
+        {
+            "de": "die Wassermelone",
+            "ar": "البطيخ",
+            "sentence": "Im Sommer essen wir viel Wassermelone."
+        },
+        {
+            "de": "die Feige",
+            "ar": "التين",
+            "sentence": "Die Feige ist eine süße Frucht."
+        },
+        {
+            "de": "die Dattel",
+            "ar": "التمر",
+            "sentence": "Ich esse im Ramadan gern eine Dattel."
+        },
+        {
+            "de": "die Olive",
+            "ar": "الزيتون",
+            "sentence": "Ich mag Salat mit einer Olive."
+        },
+        {
+            "de": "die Nuss",
+            "ar": "الجوز",
+            "sentence": "Ich knacke eine Nuss mit der Hand."
+        },
+        {
+            "de": "die Mandel",
+            "ar": "اللوز",
+            "sentence": "Die Mandel ist gesund."
+        },
+        {
+            "de": "der Honig",
+            "ar": "العسل",
+            "sentence": "Ich nehme Honig in den Tee."
+        },
+        {
+            "de": "der Zucker",
+            "ar": "السكر",
+            "sentence": "Ich brauche Zucker für den Kuchen."
+        },
+        {
+            "de": "das Salz",
+            "ar": "الملح",
+            "sentence": "In die Suppe kommt etwas Salz."
+        },
+        {
+            "de": "der Pfeffer",
+            "ar": "الفلفل الأسود",
+            "sentence": "Ich nehme ein bisschen Pfeffer."
+        },
+        {
+            "de": "das Öl",
+            "ar": "الزيت",
+            "sentence": "Ich brate das Fleisch in Öl."
+        },
+        {
+            "de": "der Essig",
+            "ar": "الخل",
+            "sentence": "Für den Salat brauche ich Essig."
+        },
+        {
+            "de": "das Mehl",
+            "ar": "الطحين",
+            "sentence": "Für den Teig brauche ich Mehl."
+        },
+        {
+            "de": "die Suppe",
+            "ar": "الشوربة",
+            "sentence": "Die Suppe ist heiß und lecker."
+        },
+        {
+            "de": "die Soße",
+            "ar": "الصلصة",
+            "sentence": "Die Soße schmeckt sehr gut."
+        },
+        {
+            "de": "das Frühstück",
+            "ar": "وجبة الفطور",
+            "sentence": "Das Frühstück ist um sieben Uhr."
+        },
+        {
+            "de": "das Mittagessen",
+            "ar": "وجبة الغداء",
+            "sentence": "Das Mittagessen ist um zwölf Uhr."
+        },
+        {
+            "de": "das Abendessen",
+            "ar": "وجبة العشاء",
+            "sentence": "Wir essen das Abendessen zusammen."
+        },
+        {
+            "de": "der Kuchen",
+            "ar": "الكعكة",
+            "sentence": "Meine Mutter backt einen Kuchen."
+        },
+        {
+            "de": "die Schokolade",
+            "ar": "الشوكولاتة",
+            "sentence": "Ich esse gern Schokolade."
+        },
+        {
+            "de": "das Eis",
+            "ar": "المثلجات",
+            "sentence": "Im Sommer esse ich gern Eis."
+        },
+        {
+            "de": "der Keks",
+            "ar": "البسكويت",
+            "sentence": "Zum Tee esse ich einen Keks."
+        },
+        {
+            "de": "der Joghurt",
+            "ar": "الزبادي",
+            "sentence": "Ich esse Joghurt mit Obst."
+        },
+        {
+            "de": "das Wasser",
+            "ar": "الماء",
+            "sentence": "Ich trinke jeden Tag viel Wasser."
+        },
+        {
+            "de": "der Saft",
+            "ar": "العصير",
+            "sentence": "Ich trinke gern Orangensaft."
+        },
+        {
+            "de": "der Tee",
+            "ar": "الشاي",
+            "sentence": "Ich trinke Tee ohne Zucker."
+        },
+        {
+            "de": "der Kaffee",
+            "ar": "القهوة",
+            "sentence": "Er trinkt morgens einen Kaffee."
+        },
+        {
+            "de": "die Limonade",
+            "ar": "الليموناضة",
+            "sentence": "Die Kinder trinken gern Limonade."
+        },
+        {
+            "de": "das Bier",
+            "ar": "البيرة",
+            "sentence": "Er trinkt am Abend ein Bier."
+        },
+        {
+            "de": "der Wein",
+            "ar": "النبيذ",
+            "sentence": "Sie trinkt ein Glas Wein."
+        },
+        {
+            "de": "die Speisekarte",
+            "ar": "قائمة الطعام",
+            "sentence": "Kann ich bitte die Speisekarte haben?"
+        },
+        {
+            "de": "die Rechnung",
+            "ar": "الفاتورة",
+            "sentence": "Die Rechnung, bitte!"
+        },
+        {
+            "de": "das Trinkgeld",
+            "ar": "البقشيش",
+            "sentence": "Ich gebe dem Kellner Trinkgeld."
+        },
+        {
+            "de": "der Kellner",
+            "ar": "النادل",
+            "sentence": "Der Kellner bringt das Essen."
+        },
+        {
+            "de": "das Restaurant",
+            "ar": "المطعم",
+            "sentence": "Wir gehen heute ins Restaurant."
+        },
+        {
+            "de": "das Café",
+            "ar": "المقهى",
+            "sentence": "Wir trinken einen Kaffee im Café."
+        },
+        {
+            "de": "die Bäckerei",
+            "ar": "المخبز",
+            "sentence": "Ich kaufe Brot in der Bäckerei."
+        },
+        {
+            "de": "der Supermarkt",
+            "ar": "السوبرماركت",
+            "sentence": "Ich kaufe im Supermarkt ein."
+        },
+        {
+            "de": "der Markt",
+            "ar": "السوق",
+            "sentence": "Auf dem Markt gibt es frisches Obst."
+        },
+        {
+            "de": "süß",
+            "ar": "حلو",
+            "sentence": "Die Orange ist sehr süß."
+        },
+        {
+            "de": "sauer",
+            "ar": "حامض",
+            "sentence": "Die Zitrone ist sauer."
+        },
+        {
+            "de": "salzig",
+            "ar": "مالح",
+            "sentence": "Die Suppe ist zu salzig."
+        },
+        {
+            "de": "bitter",
+            "ar": "مر",
+            "sentence": "Der Kaffee ist bitter."
+        },
+        {
+            "de": "scharf",
+            "ar": "حار",
+            "sentence": "Die Soße ist sehr scharf."
+        },
+        {
+            "de": "lecker",
+            "ar": "لذيذ",
+            "sentence": "Das Essen ist lecker."
+        },
+        {
+            "de": "hungrig",
+            "ar": "جائع",
+            "sentence": "Ich bin hungrig."
+        },
+        {
+            "de": "durstig",
+            "ar": "عطشان",
+            "sentence": "Ich bin sehr durstig."
+        },
+        {
+            "de": "satt",
+            "ar": "شبعان",
+            "sentence": "Ich bin satt, danke."
+        },
+        {
+            "de": "roh",
+            "ar": "نيء",
+            "sentence": "Der Fisch ist noch roh."
+        },
+        {
+            "de": "gebraten",
+            "ar": "مقلي",
+            "sentence": "Ich esse gern gebratenes Hähnchen."
+        },
+        {
+            "de": "gekocht",
+            "ar": "مطبوخ",
+            "sentence": "Die Eier sind gekocht."
+        },
+        {
+            "de": "frisch",
+            "ar": "طازج",
+            "sentence": "Das Gemüse ist frisch."
+        },
+        {
+            "de": "die Portion",
+            "ar": "الحصة",
+            "sentence": "Die Portion ist sehr groß."
+        },
+        {
+            "de": "die Zutat",
+            "ar": "المكوّن",
+            "sentence": "Eine Zutat fehlt noch."
+        },
+        {
+            "de": "das Rezept",
+            "ar": "الوصفة",
+            "sentence": "Ich suche ein Rezept für Suppe."
+        },
+        {
+            "de": "die Gewürze",
+            "ar": "التوابل",
+            "sentence": "Ich mag Gewürze im Essen."
+        },
+        {
+            "de": "der Zimt",
+            "ar": "القرفة",
+            "sentence": "Ich esse Zimt auf dem Reis."
+        },
+        {
+            "de": "die Minze",
+            "ar": "النعناع",
+            "sentence": "Ich trinke gern Tee mit Minze."
+        },
+        {
+            "de": "der Thunfisch",
+            "ar": "التونة",
+            "sentence": "Ich esse Thunfisch auf der Pizza."
+        },
+        {
+            "de": "die Garnele",
+            "ar": "الروبيان",
+            "sentence": "Die Garnele ist klein und rosa."
+        },
+        {
+            "de": "die Wurst",
+            "ar": "النقانق",
+            "sentence": "Ich esse eine Wurst mit Brot."
+        },
+        {
+            "de": "der Schinken",
+            "ar": "لحم الخنزير المدخن",
+            "sentence": "Der Schinken liegt auf dem Brot."
+        },
+        {
+            "de": "das Sandwich",
+            "ar": "الساندويتش",
+            "sentence": "Ich esse ein Sandwich zum Mittag."
+        },
+        {
+            "de": "die Pizza",
+            "ar": "البيتزا",
+            "sentence": "Wir bestellen eine Pizza."
+        },
+        {
+            "de": "die Pommes",
+            "ar": "البطاطس المقلية",
+            "sentence": "Ich esse gern Pommes mit Ketchup."
+        },
+        {
+            "de": "die Sahne",
+            "ar": "القشدة",
+            "sentence": "Ich trinke Kaffee mit Sahne."
+        }
+    ],
+    "4 - Familie & Körper": [
+        {
+            "de": "die Familie",
+            "ar": "العائلة",
+            "sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+            "de": "der Vater",
+            "ar": "الأب",
+            "sentence": "Mein Vater arbeitet im Büro."
+        },
+        {
+            "de": "die Mutter",
+            "ar": "الأم",
+            "sentence": "Meine Mutter kocht jeden Tag."
+        },
+        {
+            "de": "der Bruder",
+            "ar": "الأخ",
+            "sentence": "Mein Bruder spielt gern Fußball."
+        },
+        {
+            "de": "die Schwester",
+            "ar": "الأخت",
+            "sentence": "Meine Schwester lernt Deutsch."
+        },
+        {
+            "de": "der Sohn",
+            "ar": "الابن",
+            "sentence": "Ihr Sohn geht zur Schule."
+        },
+        {
+            "de": "die Tochter",
+            "ar": "الابنة",
+            "sentence": "Die Tochter liest ein Buch."
+        },
+        {
+            "de": "der Großvater",
+            "ar": "الجد",
+            "sentence": "Mein Großvater ist achtzig Jahre alt."
+        },
+        {
+            "de": "die Großmutter",
+            "ar": "الجدة",
+            "sentence": "Meine Großmutter backt einen Kuchen."
+        },
+        {
+            "de": "der Onkel",
+            "ar": "العم / الخال",
+            "sentence": "Mein Onkel wohnt in Hamburg."
+        },
+        {
+            "de": "die Tante",
+            "ar": "العمة / الخالة",
+            "sentence": "Meine Tante besucht uns am Sonntag."
+        },
+        {
+            "de": "der Cousin",
+            "ar": "ابن العم",
+            "sentence": "Mein Cousin spielt Gitarre."
+        },
+        {
+            "de": "die Cousine",
+            "ar": "بنت العم",
+            "sentence": "Meine Cousine ist sehr nett."
+        },
+        {
+            "de": "der Neffe",
+            "ar": "ابن الأخ",
+            "sentence": "Mein Neffe ist fünf Jahre alt."
+        },
+        {
+            "de": "die Nichte",
+            "ar": "بنت الأخ",
+            "sentence": "Meine Nichte malt ein Bild."
+        },
+        {
+            "de": "der Ehemann",
+            "ar": "الزوج",
+            "sentence": "Ihr Ehemann arbeitet im Krankenhaus."
+        },
+        {
+            "de": "die Ehefrau",
+            "ar": "الزوجة",
+            "sentence": "Seine Ehefrau ist Lehrerin."
+        },
+        {
+            "de": "das Kind",
+            "ar": "الطفل",
+            "sentence": "Das Kind spielt im Garten."
+        },
+        {
+            "de": "das Baby",
+            "ar": "الرضيع",
+            "sentence": "Das Baby schläft im Bett."
+        },
+        {
+            "de": "der Junge",
+            "ar": "الولد",
+            "sentence": "Der Junge fährt mit dem Fahrrad."
+        },
+        {
+            "de": "das Mädchen",
+            "ar": "البنت",
+            "sentence": "Das Mädchen singt ein Lied."
+        },
+        {
+            "de": "der Mann",
+            "ar": "الرجل",
+            "sentence": "Der Mann liest die Zeitung."
+        },
+        {
+            "de": "die Frau",
+            "ar": "المرأة",
+            "sentence": "Die Frau trinkt einen Kaffee."
+        },
+        {
+            "de": "der Freund",
+            "ar": "الصديق",
+            "sentence": "Mein Freund kommt heute zu Besuch."
+        },
+        {
+            "de": "die Freundin",
+            "ar": "الصديقة",
+            "sentence": "Meine Freundin wohnt in Köln."
+        },
+        {
+            "de": "der Nachbar",
+            "ar": "الجار",
+            "sentence": "Der Nachbar grüßt freundlich."
+        },
+        {
+            "de": "der Gast",
+            "ar": "الضيف",
+            "sentence": "Der Gast sitzt am Tisch."
+        },
+        {
+            "de": "der Mensch",
+            "ar": "الإنسان",
+            "sentence": "Jeder Mensch braucht Wasser."
+        },
+        {
+            "de": "die Leute",
+            "ar": "الناس",
+            "sentence": "Viele Leute warten an der Haltestelle."
+        },
+        {
+            "de": "der Erwachsene",
+            "ar": "البالغ",
+            "sentence": "Der Erwachsene bezahlt die Karten."
+        },
+        {
+            "de": "der Zwilling",
+            "ar": "التوأم",
+            "sentence": "Mein Zwilling sieht genauso aus wie ich."
+        },
+        {
+            "de": "die Eltern",
+            "ar": "الوالدان",
+            "sentence": "Meine Eltern wohnen auf dem Land."
+        },
+        {
+            "de": "die Geschwister",
+            "ar": "الإخوة والأخوات",
+            "sentence": "Ich habe zwei Geschwister."
+        },
+        {
+            "de": "die Verwandten",
+            "ar": "الأقارب",
+            "sentence": "Meine Verwandten kommen zum Fest."
+        },
+        {
+            "de": "der Kopf",
+            "ar": "الرأس",
+            "sentence": "Mein Kopf tut weh."
+        },
+        {
+            "de": "das Gesicht",
+            "ar": "الوجه",
+            "sentence": "Das Gesicht des Babys ist süß."
+        },
+        {
+            "de": "das Haar",
+            "ar": "الشعر",
+            "sentence": "Sie hat lange braune Haare."
+        },
+        {
+            "de": "das Auge",
+            "ar": "العين",
+            "sentence": "Das Auge ist rot."
+        },
+        {
+            "de": "das Ohr",
+            "ar": "الأذن",
+            "sentence": "Das linke Ohr tut weh."
+        },
+        {
+            "de": "die Nase",
+            "ar": "الأنف",
+            "sentence": "Meine Nase ist kalt."
+        },
+        {
+            "de": "der Mund",
+            "ar": "الفم",
+            "sentence": "Mach bitte den Mund auf."
+        },
+        {
+            "de": "der Zahn",
+            "ar": "السن",
+            "sentence": "Ich habe Schmerzen im Zahn."
+        },
+        {
+            "de": "die Zunge",
+            "ar": "اللسان",
+            "sentence": "Die Zunge brennt vom heißen Tee."
+        },
+        {
+            "de": "die Lippe",
+            "ar": "الشفة",
+            "sentence": "Seine Lippen sind trocken."
+        },
+        {
+            "de": "der Hals",
+            "ar": "الرقبة",
+            "sentence": "Der Hals tut mir weh."
+        },
+        {
+            "de": "die Schulter",
+            "ar": "الكتف",
+            "sentence": "Meine Schulter tut weh."
+        },
+        {
+            "de": "der Arm",
+            "ar": "الذراع",
+            "sentence": "Er trägt das Kind auf dem Arm."
+        },
+        {
+            "de": "die Hand",
+            "ar": "اليد",
+            "sentence": "Ich wasche meine Hände."
+        },
+        {
+            "de": "der Finger",
+            "ar": "الإصبع",
+            "sentence": "Mein Finger blutet."
+        },
+        {
+            "de": "der Daumen",
+            "ar": "الإبهام",
+            "sentence": "Der Daumen ist dick."
+        },
+        {
+            "de": "der Rücken",
+            "ar": "الظهر",
+            "sentence": "Mein Rücken tut seit gestern weh."
+        },
+        {
+            "de": "die Brust",
+            "ar": "الصدر",
+            "sentence": "Er hat eine breite Brust."
+        },
+        {
+            "de": "der Bauch",
+            "ar": "البطن",
+            "sentence": "Mein Bauch tut weh."
+        },
+        {
+            "de": "das Bein",
+            "ar": "الساق",
+            "sentence": "Mein Bein ist gebrochen."
+        },
+        {
+            "de": "das Knie",
+            "ar": "الركبة",
+            "sentence": "Das Knie ist verletzt."
+        },
+        {
+            "de": "der Fuß",
+            "ar": "القدم",
+            "sentence": "Mein Fuß tut weh."
+        },
+        {
+            "de": "die Zehe",
+            "ar": "إصبع القدم",
+            "sentence": "Meine Zehe ist ganz kalt."
+        },
+        {
+            "de": "das Herz",
+            "ar": "القلب",
+            "sentence": "Das Herz schlägt schnell."
+        },
+        {
+            "de": "die Haut",
+            "ar": "الجلد",
+            "sentence": "Meine Haut ist trocken."
+        },
+        {
+            "de": "der Knochen",
+            "ar": "العظم",
+            "sentence": "Der Knochen ist gebrochen."
+        },
+        {
+            "de": "das Blut",
+            "ar": "الدم",
+            "sentence": "Das Blut ist rot."
+        },
+        {
+            "de": "das Gehirn",
+            "ar": "الدماغ",
+            "sentence": "Das Gehirn ist sehr wichtig."
+        },
+        {
+            "de": "der Magen",
+            "ar": "المعدة",
+            "sentence": "Mein Magen tut weh."
+        },
+        {
+            "de": "die Lunge",
+            "ar": "الرئة",
+            "sentence": "Die Lunge braucht frische Luft."
+        },
+        {
+            "de": "der Bart",
+            "ar": "اللحية",
+            "sentence": "Der Mann hat einen langen Bart."
+        },
+        {
+            "de": "die Stirn",
+            "ar": "الجبهة",
+            "sentence": "Er hat Schweiß auf der Stirn."
+        },
+        {
+            "de": "die Wange",
+            "ar": "الخد",
+            "sentence": "Die Wange ist rot."
+        },
+        {
+            "de": "das Kinn",
+            "ar": "الذقن",
+            "sentence": "Er hat ein rundes Kinn."
+        },
+        {
+            "de": "der Nagel",
+            "ar": "الظفر",
+            "sentence": "Der Nagel ist zu lang."
+        },
+        {
+            "de": "der Ellbogen",
+            "ar": "المرفق",
+            "sentence": "Mein Ellbogen tut weh."
+        },
+        {
+            "de": "der Körper",
+            "ar": "الجسم",
+            "sentence": "Der Körper braucht Bewegung."
+        },
+        {
+            "de": "die Gesundheit",
+            "ar": "الصحة",
+            "sentence": "Die Gesundheit ist sehr wichtig."
+        },
+        {
+            "de": "die Krankheit",
+            "ar": "المرض",
+            "sentence": "Die Krankheit dauert eine Woche."
+        },
+        {
+            "de": "der Arzt",
+            "ar": "الطبيب",
+            "sentence": "Der Arzt hilft dem Patienten."
+        },
+        {
+            "de": "das Krankenhaus",
+            "ar": "المستشفى",
+            "sentence": "Das Krankenhaus ist nicht weit."
+        },
+        {
+            "de": "die Apotheke",
+            "ar": "الصيدلية",
+            "sentence": "Die Apotheke ist neben der Bank."
+        },
+        {
+            "de": "die Medizin",
+            "ar": "الدواء",
+            "sentence": "Ich nehme jeden Tag meine Medizin."
+        },
+        {
+            "de": "die Tablette",
+            "ar": "الحبة",
+            "sentence": "Ich nehme eine Tablette gegen Kopfschmerzen."
+        },
+        {
+            "de": "das Fieber",
+            "ar": "الحمى",
+            "sentence": "Das Kind hat Fieber."
+        },
+        {
+            "de": "der Husten",
+            "ar": "السعال",
+            "sentence": "Ich habe einen starken Husten."
+        },
+        {
+            "de": "die Erkältung",
+            "ar": "الزكام",
+            "sentence": "Ich habe eine Erkältung."
+        },
+        {
+            "de": "die Grippe",
+            "ar": "الإنفلونزا",
+            "sentence": "Er hat die Grippe."
+        },
+        {
+            "de": "der Schmerz",
+            "ar": "الألم",
+            "sentence": "Ich habe starke Schmerzen."
+        },
+        {
+            "de": "die Kopfschmerzen",
+            "ar": "الصداع",
+            "sentence": "Ich habe seit Stunden Kopfschmerzen."
+        },
+        {
+            "de": "die Allergie",
+            "ar": "الحساسية",
+            "sentence": "Ich habe eine Allergie gegen Pollen."
+        },
+        {
+            "de": "die Wunde",
+            "ar": "الجرح",
+            "sentence": "Die Wunde blutet noch."
+        },
+        {
+            "de": "der Unfall",
+            "ar": "الحادث",
+            "sentence": "Er hatte gestern einen Unfall."
+        },
+        {
+            "de": "der Notfall",
+            "ar": "الحالة الطارئة",
+            "sentence": "Das ist ein Notfall."
+        },
+        {
+            "de": "der Krankenwagen",
+            "ar": "سيارة الإسعاف",
+            "sentence": "Der Krankenwagen kommt sofort."
+        },
+        {
+            "de": "die Operation",
+            "ar": "العملية الجراحية",
+            "sentence": "Morgen hat er eine Operation."
+        },
+        {
+            "de": "der Zahnarzt",
+            "ar": "طبيب الأسنان",
+            "sentence": "Der Zahnarzt untersucht meine Zähne."
+        },
+        {
+            "de": "die Krankenschwester",
+            "ar": "الممرضة",
+            "sentence": "Die Krankenschwester misst das Fieber."
+        },
+        {
+            "de": "der Patient",
+            "ar": "المريض",
+            "sentence": "Der Patient wartet im Zimmer."
+        },
+        {
+            "de": "die Impfung",
+            "ar": "التطعيم",
+            "sentence": "Die Impfung ist heute."
+        },
+        {
+            "de": "der Termin",
+            "ar": "الموعد",
+            "sentence": "Ich habe morgen einen Termin beim Arzt."
+        },
+        {
+            "de": "gesund",
+            "ar": "سليم",
+            "sentence": "Ich bin gesund."
+        },
+        {
+            "de": "krank",
+            "ar": "مريض",
+            "sentence": "Mein Bruder ist krank."
+        },
+        {
+            "de": "müde",
+            "ar": "متعب",
+            "sentence": "Ich bin heute sehr müde."
+        },
+        {
+            "de": "schwach",
+            "ar": "ضعيف",
+            "sentence": "Nach der Krankheit ist er noch schwach."
+        },
+        {
+            "de": "stark",
+            "ar": "قوي",
+            "sentence": "Mein Vater ist stark."
+        }
+    ],
+    "5 - Adjektive": [
+        {
+            "de": "groß",
+            "ar": "كبير",
+            "sentence": "Das Haus ist sehr groß."
+        },
+        {
+            "de": "klein",
+            "ar": "صغير",
+            "sentence": "Mein Zimmer ist klein."
+        },
+        {
+            "de": "lang",
+            "ar": "طويل",
+            "sentence": "Der Weg ist sehr lang."
+        },
+        {
+            "de": "kurz",
+            "ar": "قصير",
+            "sentence": "Die Pause ist leider zu kurz."
+        },
+        {
+            "de": "hoch",
+            "ar": "عالٍ",
+            "sentence": "Der Berg ist hoch."
+        },
+        {
+            "de": "niedrig",
+            "ar": "منخفض",
+            "sentence": "Die Preise sind heute niedrig."
+        },
+        {
+            "de": "breit",
+            "ar": "عريض",
+            "sentence": "Die Straße ist hier breit."
+        },
+        {
+            "de": "schmal",
+            "ar": "ضيق",
+            "sentence": "Der Weg ist schmal."
+        },
+        {
+            "de": "dick",
+            "ar": "سميك",
+            "sentence": "Das Buch ist sehr dick."
+        },
+        {
+            "de": "dünn",
+            "ar": "رفيع",
+            "sentence": "Die Scheibe Brot ist dünn."
+        },
+        {
+            "de": "schwer",
+            "ar": "ثقيل",
+            "sentence": "Die Tasche ist schwer."
+        },
+        {
+            "de": "leicht",
+            "ar": "خفيف",
+            "sentence": "Der Koffer ist heute leicht."
+        },
+        {
+            "de": "neu",
+            "ar": "جديد",
+            "sentence": "Ich habe ein neues Handy."
+        },
+        {
+            "de": "alt",
+            "ar": "قديم",
+            "sentence": "Das Auto ist schon alt."
+        },
+        {
+            "de": "jung",
+            "ar": "شاب",
+            "sentence": "Mein Bruder ist noch jung."
+        },
+        {
+            "de": "schön",
+            "ar": "جميل",
+            "sentence": "Das Kleid ist wirklich schön."
+        },
+        {
+            "de": "hässlich",
+            "ar": "قبيح",
+            "sentence": "Der Hund sieht hässlich aus."
+        },
+        {
+            "de": "gut",
+            "ar": "جيد",
+            "sentence": "Das Essen ist sehr gut."
+        },
+        {
+            "de": "schlecht",
+            "ar": "سيئ",
+            "sentence": "Das Wetter ist heute schlecht."
+        },
+        {
+            "de": "besser",
+            "ar": "أفضل",
+            "sentence": "Heute geht es mir besser."
+        },
+        {
+            "de": "schnell",
+            "ar": "سريع",
+            "sentence": "Der Zug ist sehr schnell."
+        },
+        {
+            "de": "langsam",
+            "ar": "بطيء",
+            "sentence": "Die Schnecke ist langsam."
+        },
+        {
+            "de": "heiß",
+            "ar": "ساخن",
+            "sentence": "Der Tee ist heiß."
+        },
+        {
+            "de": "kalt",
+            "ar": "بارد",
+            "sentence": "Das Wasser ist kalt."
+        },
+        {
+            "de": "warm",
+            "ar": "دافئ",
+            "sentence": "Im Zimmer ist es warm."
+        },
+        {
+            "de": "kühl",
+            "ar": "بارد قليلاً",
+            "sentence": "Am Abend ist es kühl."
+        },
+        {
+            "de": "nass",
+            "ar": "مبلل",
+            "sentence": "Meine Hose ist nass."
+        },
+        {
+            "de": "trocken",
+            "ar": "جاف",
+            "sentence": "Die Wäsche ist schon trocken."
+        },
+        {
+            "de": "sauber",
+            "ar": "نظيف",
+            "sentence": "Die Küche ist sauber."
+        },
+        {
+            "de": "schmutzig",
+            "ar": "وسخ",
+            "sentence": "Deine Schuhe sind schmutzig."
+        },
+        {
+            "de": "laut",
+            "ar": "صاخب",
+            "sentence": "Die Musik ist zu laut."
+        },
+        {
+            "de": "leise",
+            "ar": "هادئ",
+            "sentence": "Bitte sei leise."
+        },
+        {
+            "de": "hell",
+            "ar": "مضيء",
+            "sentence": "Das Zimmer ist hell."
+        },
+        {
+            "de": "dunkel",
+            "ar": "مظلم",
+            "sentence": "Draußen ist es dunkel."
+        },
+        {
+            "de": "voll",
+            "ar": "ممتلئ",
+            "sentence": "Das Glas ist voll."
+        },
+        {
+            "de": "leer",
+            "ar": "فارغ",
+            "sentence": "Der Kühlschrank ist leer."
+        },
+        {
+            "de": "offen",
+            "ar": "مفتوح",
+            "sentence": "Das Fenster ist offen."
+        },
+        {
+            "de": "geschlossen",
+            "ar": "مغلق",
+            "sentence": "Der Laden ist geschlossen."
+        },
+        {
+            "de": "teuer",
+            "ar": "غالٍ",
+            "sentence": "Das Auto ist sehr teuer."
+        },
+        {
+            "de": "billig",
+            "ar": "رخيص",
+            "sentence": "Das Brot ist billig."
+        },
+        {
+            "de": "reich",
+            "ar": "غني",
+            "sentence": "Er ist reich."
+        },
+        {
+            "de": "arm",
+            "ar": "فقير",
+            "sentence": "Der Mann ist arm."
+        },
+        {
+            "de": "glücklich",
+            "ar": "سعيد",
+            "sentence": "Die Kinder sind glücklich."
+        },
+        {
+            "de": "traurig",
+            "ar": "حزين",
+            "sentence": "Warum bist du traurig?"
+        },
+        {
+            "de": "wütend",
+            "ar": "غاضب",
+            "sentence": "Er ist sehr wütend."
+        },
+        {
+            "de": "nett",
+            "ar": "لطيف",
+            "sentence": "Die Nachbarin ist nett."
+        },
+        {
+            "de": "freundlich",
+            "ar": "ودود",
+            "sentence": "Der Verkäufer ist freundlich."
+        },
+        {
+            "de": "unfreundlich",
+            "ar": "غير ودود",
+            "sentence": "Der Kellner war unfreundlich."
+        },
+        {
+            "de": "höflich",
+            "ar": "مهذب",
+            "sentence": "Das Kind ist höflich."
+        },
+        {
+            "de": "frech",
+            "ar": "وقح",
+            "sentence": "Der Junge ist ziemlich frech."
+        },
+        {
+            "de": "klug",
+            "ar": "ذكي",
+            "sentence": "Meine Schwester ist klug."
+        },
+        {
+            "de": "dumm",
+            "ar": "غبي",
+            "sentence": "Die Frage war nicht dumm."
+        },
+        {
+            "de": "fleißig",
+            "ar": "مجتهد",
+            "sentence": "Sie ist sehr fleißig."
+        },
+        {
+            "de": "faul",
+            "ar": "كسول",
+            "sentence": "Er ist heute faul."
+        },
+        {
+            "de": "ehrlich",
+            "ar": "صادق",
+            "sentence": "Sei bitte ehrlich zu mir."
+        },
+        {
+            "de": "mutig",
+            "ar": "شجاع",
+            "sentence": "Der Feuerwehrmann ist mutig."
+        },
+        {
+            "de": "ängstlich",
+            "ar": "خائف",
+            "sentence": "Das Kind ist ängstlich."
+        },
+        {
+            "de": "ruhig",
+            "ar": "هادئ البال",
+            "sentence": "Bleib ruhig, alles ist gut."
+        },
+        {
+            "de": "nervös",
+            "ar": "متوتر",
+            "sentence": "Ich bin vor der Prüfung nervös."
+        },
+        {
+            "de": "neugierig",
+            "ar": "فضولي",
+            "sentence": "Das Kind ist sehr neugierig."
+        },
+        {
+            "de": "schüchtern",
+            "ar": "خجول",
+            "sentence": "Sie ist noch schüchtern."
+        },
+        {
+            "de": "lustig",
+            "ar": "مضحك",
+            "sentence": "Der Film war lustig."
+        },
+        {
+            "de": "ernst",
+            "ar": "جاد",
+            "sentence": "Er schaut ernst."
+        },
+        {
+            "de": "interessant",
+            "ar": "مثير للاهتمام",
+            "sentence": "Das Buch ist interessant."
+        },
+        {
+            "de": "langweilig",
+            "ar": "ممل",
+            "sentence": "Der Film war langweilig."
+        },
+        {
+            "de": "wichtig",
+            "ar": "مهم",
+            "sentence": "Gesundheit ist wichtig."
+        },
+        {
+            "de": "einfach",
+            "ar": "سهل",
+            "sentence": "Die Aufgabe ist einfach."
+        },
+        {
+            "de": "schwierig",
+            "ar": "صعب",
+            "sentence": "Der Test ist schwierig."
+        },
+        {
+            "de": "möglich",
+            "ar": "ممكن",
+            "sentence": "Ist das möglich?"
+        },
+        {
+            "de": "unmöglich",
+            "ar": "مستحيل",
+            "sentence": "Das ist unmöglich."
+        },
+        {
+            "de": "richtig",
+            "ar": "صحيح",
+            "sentence": "Die Antwort ist richtig."
+        },
+        {
+            "de": "falsch",
+            "ar": "خاطئ",
+            "sentence": "Das ist leider falsch."
+        },
+        {
+            "de": "wahr",
+            "ar": "حقيقي",
+            "sentence": "Die Geschichte ist wahr."
+        },
+        {
+            "de": "bereit",
+            "ar": "جاهز",
+            "sentence": "Ich bin bereit."
+        },
+        {
+            "de": "frei",
+            "ar": "حر",
+            "sentence": "Hast du morgen frei?"
+        },
+        {
+            "de": "besetzt",
+            "ar": "مشغول",
+            "sentence": "Der Tisch ist besetzt."
+        },
+        {
+            "de": "nah",
+            "ar": "قريب",
+            "sentence": "Die Schule ist nah."
+        },
+        {
+            "de": "weit",
+            "ar": "بعيد",
+            "sentence": "Der Bahnhof ist weit."
+        },
+        {
+            "de": "früh",
+            "ar": "مبكر",
+            "sentence": "Ich stehe früh auf."
+        },
+        {
+            "de": "spät",
+            "ar": "متأخر",
+            "sentence": "Es ist schon spät."
+        },
+        {
+            "de": "hart",
+            "ar": "صلب",
+            "sentence": "Der Stein ist hart."
+        },
+        {
+            "de": "weich",
+            "ar": "ناعم",
+            "sentence": "Das Kissen ist weich."
+        },
+        {
+            "de": "glatt",
+            "ar": "أملس",
+            "sentence": "Der Boden ist glatt."
+        },
+        {
+            "de": "rau",
+            "ar": "خشن",
+            "sentence": "Die Wand ist rau."
+        },
+        {
+            "de": "gerade",
+            "ar": "مستقيم",
+            "sentence": "Die Linie ist gerade."
+        },
+        {
+            "de": "rund",
+            "ar": "مستدير",
+            "sentence": "Der Ball ist rund."
+        },
+        {
+            "de": "flach",
+            "ar": "مسطح",
+            "sentence": "Das Land ist flach."
+        },
+        {
+            "de": "tief",
+            "ar": "عميق",
+            "sentence": "Der See ist tief."
+        },
+        {
+            "de": "bequem",
+            "ar": "مريح",
+            "sentence": "Das Sofa ist bequem."
+        },
+        {
+            "de": "gefährlich",
+            "ar": "خطير",
+            "sentence": "Der Weg ist gefährlich."
+        },
+        {
+            "de": "sicher",
+            "ar": "آمن",
+            "sentence": "Der Platz ist sicher."
+        },
+        {
+            "de": "berühmt",
+            "ar": "مشهور",
+            "sentence": "Der Sänger ist berühmt."
+        },
+        {
+            "de": "bekannt",
+            "ar": "معروف",
+            "sentence": "Das Lied ist bekannt."
+        },
+        {
+            "de": "fremd",
+            "ar": "غريب",
+            "sentence": "Die Stadt ist mir fremd."
+        },
+        {
+            "de": "allein",
+            "ar": "وحيد",
+            "sentence": "Ich bin heute allein."
+        },
+        {
+            "de": "gleich",
+            "ar": "متساوٍ",
+            "sentence": "Die Kinder sind gleich alt."
+        },
+        {
+            "de": "anders",
+            "ar": "مختلف",
+            "sentence": "Ich sehe das anders."
+        },
+        {
+            "de": "ähnlich",
+            "ar": "مشابه",
+            "sentence": "Die Schwestern sind sich ähnlich."
+        },
+        {
+            "de": "normal",
+            "ar": "عادي",
+            "sentence": "Das ist ganz normal."
+        },
+        {
+            "de": "besonders",
+            "ar": "مميز",
+            "sentence": "Das Essen ist besonders gut."
+        }
+    ],
+    "6 - Zeit, Zahlen & Farben": [
+        {
+            "de": "eins",
+            "ar": "واحد",
+            "sentence": "Ich habe nur eine Schwester."
+        },
+        {
+            "de": "zwei",
+            "ar": "اثنان",
+            "sentence": "Ich brauche zwei Brötchen."
+        },
+        {
+            "de": "drei",
+            "ar": "ثلاثة",
+            "sentence": "Wir haben drei Kinder."
+        },
+        {
+            "de": "vier",
+            "ar": "أربعة",
+            "sentence": "Das Auto hat vier Türen."
+        },
+        {
+            "de": "fünf",
+            "ar": "خمسة",
+            "sentence": "Die Hand hat fünf Finger."
+        },
+        {
+            "de": "sechs",
+            "ar": "ستة",
+            "sentence": "Ich stehe um sechs Uhr auf."
+        },
+        {
+            "de": "sieben",
+            "ar": "سبعة",
+            "sentence": "Die Woche hat sieben Tage."
+        },
+        {
+            "de": "acht",
+            "ar": "ثمانية",
+            "sentence": "Der Kurs beginnt um acht Uhr."
+        },
+        {
+            "de": "neun",
+            "ar": "تسعة",
+            "sentence": "Mein Sohn ist neun Jahre alt."
+        },
+        {
+            "de": "zehn",
+            "ar": "عشرة",
+            "sentence": "Ich warte schon zehn Minuten."
+        },
+        {
+            "de": "elf",
+            "ar": "أحد عشر",
+            "sentence": "Es ist elf Uhr abends."
+        },
+        {
+            "de": "zwölf",
+            "ar": "اثنا عشر",
+            "sentence": "Das Jahr hat zwölf Monate."
+        },
+        {
+            "de": "dreizehn",
+            "ar": "ثلاثة عشر",
+            "sentence": "Dreizehn Kinder spielen im Garten."
+        },
+        {
+            "de": "vierzehn",
+            "ar": "أربعة عشر",
+            "sentence": "Meine Tochter ist vierzehn Jahre alt."
+        },
+        {
+            "de": "fünfzehn",
+            "ar": "خمسة عشر",
+            "sentence": "Der Bus kommt in fünfzehn Minuten."
+        },
+        {
+            "de": "zwanzig",
+            "ar": "عشرون",
+            "sentence": "Das Hemd kostet zwanzig Euro."
+        },
+        {
+            "de": "dreißig",
+            "ar": "ثلاثون",
+            "sentence": "Mein Vater ist dreißig Jahre alt."
+        },
+        {
+            "de": "vierzig",
+            "ar": "أربعون",
+            "sentence": "Meine Tante ist vierzig Jahre alt."
+        },
+        {
+            "de": "fünfzig",
+            "ar": "خمسون",
+            "sentence": "Das Buch kostet fünfzig Euro."
+        },
+        {
+            "de": "hundert",
+            "ar": "مئة",
+            "sentence": "Die Tasche kostet hundert Euro."
+        },
+        {
+            "de": "tausend",
+            "ar": "ألف",
+            "sentence": "In der Stadt wohnen tausend Menschen."
+        },
+        {
+            "de": "die Million",
+            "ar": "المليون",
+            "sentence": "Die Stadt hat eine Million Einwohner."
+        },
+        {
+            "de": "erste",
+            "ar": "الأول",
+            "sentence": "Das ist mein erstes Auto."
+        },
+        {
+            "de": "zweite",
+            "ar": "الثاني",
+            "sentence": "Er wohnt im zweiten Stock."
+        },
+        {
+            "de": "dritte",
+            "ar": "الثالث",
+            "sentence": "Das ist der dritte Tag."
+        },
+        {
+            "de": "halb",
+            "ar": "نصف",
+            "sentence": "Ich esse einen halben Apfel."
+        },
+        {
+            "de": "doppelt",
+            "ar": "مزدوج",
+            "sentence": "Ich möchte einen doppelten Kaffee."
+        },
+        {
+            "de": "rot",
+            "ar": "أحمر",
+            "sentence": "Das Auto ist rot."
+        },
+        {
+            "de": "blau",
+            "ar": "أزرق",
+            "sentence": "Der Himmel ist heute blau."
+        },
+        {
+            "de": "grün",
+            "ar": "أخضر",
+            "sentence": "Das Gras ist grün."
+        },
+        {
+            "de": "gelb",
+            "ar": "أصفر",
+            "sentence": "Die Banane ist gelb."
+        },
+        {
+            "de": "schwarz",
+            "ar": "أسود",
+            "sentence": "Meine Katze ist schwarz."
+        },
+        {
+            "de": "weiß",
+            "ar": "أبيض",
+            "sentence": "Der Schnee ist weiß."
+        },
+        {
+            "de": "grau",
+            "ar": "رمادي",
+            "sentence": "Der Himmel ist heute grau."
+        },
+        {
+            "de": "braun",
+            "ar": "بني",
+            "sentence": "Mein Hund ist braun."
+        },
+        {
+            "de": "orange",
+            "ar": "برتقالي",
+            "sentence": "Ich mag die Farbe Orange sehr."
+        },
+        {
+            "de": "rosa",
+            "ar": "وردي",
+            "sentence": "Sie trägt ein rosa Kleid."
+        },
+        {
+            "de": "lila",
+            "ar": "بنفسجي",
+            "sentence": "Ihre Tasche ist lila."
+        },
+        {
+            "de": "golden",
+            "ar": "ذهبي",
+            "sentence": "Er trägt eine goldene Uhr."
+        },
+        {
+            "de": "silbern",
+            "ar": "فضي",
+            "sentence": "Sie hat einen silbernen Ring."
+        },
+        {
+            "de": "bunt",
+            "ar": "ملون",
+            "sentence": "Das Bild ist sehr bunt."
+        },
+        {
+            "de": "die Sekunde",
+            "ar": "الثانية",
+            "sentence": "Warte bitte eine Sekunde."
+        },
+        {
+            "de": "die Minute",
+            "ar": "الدقيقة",
+            "sentence": "Der Zug kommt in einer Minute."
+        },
+        {
+            "de": "die Stunde",
+            "ar": "الساعة (مدة)",
+            "sentence": "Der Film dauert eine Stunde."
+        },
+        {
+            "de": "der Tag",
+            "ar": "اليوم",
+            "sentence": "Ein Tag hat vierundzwanzig Stunden."
+        },
+        {
+            "de": "die Woche",
+            "ar": "الأسبوع",
+            "sentence": "Ich lerne jede Woche Deutsch."
+        },
+        {
+            "de": "der Monat",
+            "ar": "الشهر",
+            "sentence": "Der Monat hat dreißig Tage."
+        },
+        {
+            "de": "das Jahr",
+            "ar": "السنة",
+            "sentence": "Ein Jahr hat zwölf Monate."
+        },
+        {
+            "de": "heute",
+            "ar": "اليوم",
+            "sentence": "Heute ist das Wetter schön."
+        },
+        {
+            "de": "morgen",
+            "ar": "غدًا",
+            "sentence": "Morgen habe ich einen Termin."
+        },
+        {
+            "de": "gestern",
+            "ar": "أمس",
+            "sentence": "Gestern war ich im Kino."
+        },
+        {
+            "de": "jetzt",
+            "ar": "الآن",
+            "sentence": "Ich habe jetzt keine Zeit."
+        },
+        {
+            "de": "bald",
+            "ar": "قريبًا",
+            "sentence": "Der Bus kommt bald."
+        },
+        {
+            "de": "früher",
+            "ar": "سابقًا",
+            "sentence": "Früher habe ich in Berlin gewohnt."
+        },
+        {
+            "de": "später",
+            "ar": "لاحقًا",
+            "sentence": "Wir sprechen später darüber."
+        },
+        {
+            "de": "immer",
+            "ar": "دائمًا",
+            "sentence": "Ich trinke immer Tee zum Frühstück."
+        },
+        {
+            "de": "nie",
+            "ar": "أبدًا",
+            "sentence": "Ich esse nie Fleisch."
+        },
+        {
+            "de": "oft",
+            "ar": "غالبًا",
+            "sentence": "Ich gehe oft ins Café."
+        },
+        {
+            "de": "manchmal",
+            "ar": "أحيانًا",
+            "sentence": "Manchmal fahre ich mit dem Fahrrad."
+        },
+        {
+            "de": "selten",
+            "ar": "نادرًا",
+            "sentence": "Ich sehe meinen Onkel selten."
+        },
+        {
+            "de": "der Morgen",
+            "ar": "الصباح",
+            "sentence": "Am Morgen trinke ich Kaffee."
+        },
+        {
+            "de": "der Vormittag",
+            "ar": "قبل الظهر",
+            "sentence": "Am Vormittag arbeite ich im Büro."
+        },
+        {
+            "de": "der Mittag",
+            "ar": "الظهيرة",
+            "sentence": "Zu Mittag esse ich eine Suppe."
+        },
+        {
+            "de": "der Nachmittag",
+            "ar": "بعد الظهر",
+            "sentence": "Am Nachmittag gehe ich spazieren."
+        },
+        {
+            "de": "der Abend",
+            "ar": "المساء",
+            "sentence": "Am Abend sehe ich fern."
+        },
+        {
+            "de": "die Nacht",
+            "ar": "الليل",
+            "sentence": "In der Nacht schlafe ich tief."
+        },
+        {
+            "de": "Mitternacht",
+            "ar": "منتصف الليل",
+            "sentence": "Um Mitternacht ist es sehr still."
+        },
+        {
+            "de": "Montag",
+            "ar": "الاثنين",
+            "sentence": "Am Montag beginnt die Arbeit."
+        },
+        {
+            "de": "Dienstag",
+            "ar": "الثلاثاء",
+            "sentence": "Am Dienstag habe ich Deutschkurs."
+        },
+        {
+            "de": "Mittwoch",
+            "ar": "الأربعاء",
+            "sentence": "Am Mittwoch gehe ich einkaufen."
+        },
+        {
+            "de": "Donnerstag",
+            "ar": "الخميس",
+            "sentence": "Am Donnerstag treffe ich Freunde."
+        },
+        {
+            "de": "Freitag",
+            "ar": "الجمعة",
+            "sentence": "Am Freitag arbeite ich nur kurz."
+        },
+        {
+            "de": "Samstag",
+            "ar": "السبت",
+            "sentence": "Am Samstag schlafe ich lange."
+        },
+        {
+            "de": "Sonntag",
+            "ar": "الأحد",
+            "sentence": "Am Sonntag besuche ich meine Eltern."
+        },
+        {
+            "de": "Januar",
+            "ar": "يناير",
+            "sentence": "Im Januar ist es kalt."
+        },
+        {
+            "de": "Februar",
+            "ar": "فبراير",
+            "sentence": "Der Februar ist ein kurzer Monat."
+        },
+        {
+            "de": "März",
+            "ar": "مارس",
+            "sentence": "Im März beginnt der Frühling."
+        },
+        {
+            "de": "April",
+            "ar": "أبريل",
+            "sentence": "Im April regnet es oft."
+        },
+        {
+            "de": "Mai",
+            "ar": "مايو",
+            "sentence": "Im Mai blühen die Blumen."
+        },
+        {
+            "de": "Juni",
+            "ar": "يونيو",
+            "sentence": "Im Juni ist es schon warm."
+        },
+        {
+            "de": "Juli",
+            "ar": "يوليو",
+            "sentence": "Im Juli fahren wir in den Urlaub."
+        },
+        {
+            "de": "August",
+            "ar": "أغسطس",
+            "sentence": "Im August ist es sehr heiß."
+        },
+        {
+            "de": "September",
+            "ar": "سبتمبر",
+            "sentence": "Im September beginnt die Schule."
+        },
+        {
+            "de": "Oktober",
+            "ar": "أكتوبر",
+            "sentence": "Im Oktober fallen die Blätter."
+        },
+        {
+            "de": "November",
+            "ar": "نوفمبر",
+            "sentence": "Im November ist das Wetter grau."
+        },
+        {
+            "de": "Dezember",
+            "ar": "ديسمبر",
+            "sentence": "Im Dezember feiern wir Weihnachten."
+        },
+        {
+            "de": "der Frühling",
+            "ar": "الربيع",
+            "sentence": "Im Frühling blühen die Bäume."
+        },
+        {
+            "de": "der Sommer",
+            "ar": "الصيف",
+            "sentence": "Im Sommer schwimme ich gern."
+        },
+        {
+            "de": "der Herbst",
+            "ar": "الخريف",
+            "sentence": "Im Herbst regnet es viel."
+        },
+        {
+            "de": "der Winter",
+            "ar": "الشتاء",
+            "sentence": "Im Winter liegt oft Schnee."
+        },
+        {
+            "de": "das Wochenende",
+            "ar": "عطلة نهاية الأسبوع",
+            "sentence": "Am Wochenende schlafe ich lange."
+        },
+        {
+            "de": "der Feiertag",
+            "ar": "العطلة الرسمية",
+            "sentence": "Morgen ist Feiertag, wir arbeiten nicht."
+        },
+        {
+            "de": "der Geburtstag",
+            "ar": "عيد الميلاد",
+            "sentence": "Heute hat meine Mutter Geburtstag."
+        },
+        {
+            "de": "die Zeit",
+            "ar": "الوقت",
+            "sentence": "Ich habe heute keine Zeit."
+        },
+        {
+            "de": "das Datum",
+            "ar": "التاريخ",
+            "sentence": "Das Datum steht auf dem Brief."
+        },
+        {
+            "de": "der Kalender",
+            "ar": "التقويم",
+            "sentence": "Der Kalender hängt an der Wand."
+        },
+        {
+            "de": "die Vergangenheit",
+            "ar": "الماضي",
+            "sentence": "Die Vergangenheit kann man nicht ändern."
+        },
+        {
+            "de": "die Gegenwart",
+            "ar": "الحاضر",
+            "sentence": "In der Gegenwart lebe ich in Köln."
+        },
+        {
+            "de": "die Zukunft",
+            "ar": "المستقبل",
+            "sentence": "Die Zukunft ist spannend."
+        },
+        {
+            "de": "das Jahrhundert",
+            "ar": "القرن",
+            "sentence": "Ein Jahrhundert hat hundert Jahre."
+        }
+    ],
+    "7 - Stadt & Reisen": [
+        {
+            "de": "die Stadt",
+            "ar": "المدينة",
+            "sentence": "Die Stadt ist sehr groß."
+        },
+        {
+            "de": "das Dorf",
+            "ar": "القرية",
+            "sentence": "Mein Onkel wohnt in einem kleinen Dorf."
+        },
+        {
+            "de": "das Land",
+            "ar": "البلد",
+            "sentence": "Deutschland ist ein schönes Land."
+        },
+        {
+            "de": "die Straße",
+            "ar": "الشارع",
+            "sentence": "Die Straße ist heute sehr voll."
+        },
+        {
+            "de": "der Weg",
+            "ar": "الطريق",
+            "sentence": "Ich kenne den Weg zum Bahnhof."
+        },
+        {
+            "de": "die Kreuzung",
+            "ar": "التقاطع",
+            "sentence": "An der Kreuzung müssen Sie links abbiegen."
+        },
+        {
+            "de": "die Ampel",
+            "ar": "إشارة المرور",
+            "sentence": "Die Ampel ist rot, wir warten."
+        },
+        {
+            "de": "die Brücke",
+            "ar": "الجسر",
+            "sentence": "Die Brücke über den Fluss ist alt."
+        },
+        {
+            "de": "der Platz",
+            "ar": "الساحة",
+            "sentence": "Auf dem Platz steht ein großer Brunnen."
+        },
+        {
+            "de": "der Park",
+            "ar": "المتنزه",
+            "sentence": "Am Sonntag gehen wir im Park spazieren."
+        },
+        {
+            "de": "das Gebäude",
+            "ar": "المبنى",
+            "sentence": "Das Gebäude hat zehn Etagen."
+        },
+        {
+            "de": "das Zentrum",
+            "ar": "وسط المدينة",
+            "sentence": "Das Zentrum ist nicht weit von hier."
+        },
+        {
+            "de": "der Bahnhof",
+            "ar": "محطة القطار",
+            "sentence": "Der Bahnhof ist neben dem Hotel."
+        },
+        {
+            "de": "der Flughafen",
+            "ar": "المطار",
+            "sentence": "Der Flughafen liegt außerhalb der Stadt."
+        },
+        {
+            "de": "der Hafen",
+            "ar": "الميناء",
+            "sentence": "Im Hafen liegen viele Schiffe."
+        },
+        {
+            "de": "die Haltestelle",
+            "ar": "محطة الحافلة",
+            "sentence": "Die Haltestelle ist gleich um die Ecke."
+        },
+        {
+            "de": "der Bus",
+            "ar": "الحافلة",
+            "sentence": "Der Bus kommt in fünf Minuten."
+        },
+        {
+            "de": "die Bahn",
+            "ar": "القطار",
+            "sentence": "Die Bahn fährt jede Stunde."
+        },
+        {
+            "de": "die U-Bahn",
+            "ar": "المترو",
+            "sentence": "Ich fahre mit der U-Bahn zur Arbeit."
+        },
+        {
+            "de": "die Straßenbahn",
+            "ar": "الترام",
+            "sentence": "Die Straßenbahn hält vor dem Museum."
+        },
+        {
+            "de": "das Auto",
+            "ar": "السيارة",
+            "sentence": "Mein Vater hat ein neues Auto."
+        },
+        {
+            "de": "das Taxi",
+            "ar": "سيارة الأجرة",
+            "sentence": "Wir nehmen ein Taxi zum Hotel."
+        },
+        {
+            "de": "das Fahrrad",
+            "ar": "الدراجة",
+            "sentence": "Ich fahre jeden Tag mit dem Fahrrad."
+        },
+        {
+            "de": "das Motorrad",
+            "ar": "الدراجة النارية",
+            "sentence": "Er hat ein schnelles Motorrad."
+        },
+        {
+            "de": "das Flugzeug",
+            "ar": "الطائرة",
+            "sentence": "Das Flugzeug landet um acht Uhr."
+        },
+        {
+            "de": "das Schiff",
+            "ar": "السفينة",
+            "sentence": "Das Schiff fährt nach Schweden."
+        },
+        {
+            "de": "der Zug",
+            "ar": "القطار",
+            "sentence": "Der Zug nach Berlin ist pünktlich."
+        },
+        {
+            "de": "der Lastwagen",
+            "ar": "الشاحنة",
+            "sentence": "Der Lastwagen steht vor dem Geschäft."
+        },
+        {
+            "de": "die Autobahn",
+            "ar": "الطريق السريع",
+            "sentence": "Auf der Autobahn fahren viele Autos."
+        },
+        {
+            "de": "die Tankstelle",
+            "ar": "محطة الوقود",
+            "sentence": "Wir brauchen eine Tankstelle."
+        },
+        {
+            "de": "der Parkplatz",
+            "ar": "موقف السيارات",
+            "sentence": "Der Parkplatz ist leider voll."
+        },
+        {
+            "de": "der Führerschein",
+            "ar": "رخصة القيادة",
+            "sentence": "Meine Schwester macht den Führerschein."
+        },
+        {
+            "de": "der Fahrer",
+            "ar": "السائق",
+            "sentence": "Der Fahrer ist sehr freundlich."
+        },
+        {
+            "de": "der Fahrgast",
+            "ar": "الراكب",
+            "sentence": "Der Fahrgast steigt am Bahnhof aus."
+        },
+        {
+            "de": "die Fahrkarte",
+            "ar": "تذكرة السفر",
+            "sentence": "Ich kaufe eine Fahrkarte nach München."
+        },
+        {
+            "de": "der Fahrplan",
+            "ar": "جدول المواعيد",
+            "sentence": "Der Fahrplan hängt an der Haltestelle."
+        },
+        {
+            "de": "die Abfahrt",
+            "ar": "المغادرة",
+            "sentence": "Die Abfahrt ist um zehn Uhr."
+        },
+        {
+            "de": "die Ankunft",
+            "ar": "الوصول",
+            "sentence": "Die Ankunft ist um zwölf Uhr."
+        },
+        {
+            "de": "das Gleis",
+            "ar": "الرصيف",
+            "sentence": "Der Zug fährt auf Gleis fünf ab."
+        },
+        {
+            "de": "die Verspätung",
+            "ar": "التأخير",
+            "sentence": "Der Zug hat zehn Minuten Verspätung."
+        },
+        {
+            "de": "die Reise",
+            "ar": "الرحلة",
+            "sentence": "Die Reise nach Italien war toll."
+        },
+        {
+            "de": "der Urlaub",
+            "ar": "الإجازة",
+            "sentence": "Im Sommer machen wir Urlaub am Meer."
+        },
+        {
+            "de": "der Tourist",
+            "ar": "السائح",
+            "sentence": "Der Tourist fotografiert das Schloss."
+        },
+        {
+            "de": "das Hotel",
+            "ar": "الفندق",
+            "sentence": "Das Hotel ist sauber und günstig."
+        },
+        {
+            "de": "die Reservierung",
+            "ar": "الحجز",
+            "sentence": "Ich habe eine Reservierung für Freitag."
+        },
+        {
+            "de": "Zimmer frei",
+            "ar": "غرفة شاغرة",
+            "sentence": "Haben Sie noch ein Zimmer frei?"
+        },
+        {
+            "de": "die Rezeption",
+            "ar": "الاستقبال",
+            "sentence": "Die Rezeption ist rund um die Uhr offen."
+        },
+        {
+            "de": "der Strand",
+            "ar": "الشاطئ",
+            "sentence": "Am Strand spielen die Kinder."
+        },
+        {
+            "de": "das Meer",
+            "ar": "البحر",
+            "sentence": "Das Meer ist heute ruhig."
+        },
+        {
+            "de": "die Insel",
+            "ar": "الجزيرة",
+            "sentence": "Wir fahren mit der Fähre auf die Insel."
+        },
+        {
+            "de": "der Berg",
+            "ar": "الجبل",
+            "sentence": "Der Berg ist sehr hoch."
+        },
+        {
+            "de": "das Museum",
+            "ar": "المتحف",
+            "sentence": "Wir besuchen heute das Museum."
+        },
+        {
+            "de": "die Kirche",
+            "ar": "الكنيسة",
+            "sentence": "Die Kirche steht im Zentrum."
+        },
+        {
+            "de": "die Moschee",
+            "ar": "المسجد",
+            "sentence": "Die Moschee ist am Samstag offen."
+        },
+        {
+            "de": "das Schloss",
+            "ar": "القصر",
+            "sentence": "Das Schloss ist sehr alt."
+        },
+        {
+            "de": "die Burg",
+            "ar": "القلعة",
+            "sentence": "Die Burg liegt auf dem Berg."
+        },
+        {
+            "de": "das Denkmal",
+            "ar": "النصب التذكاري",
+            "sentence": "Das Denkmal steht mitten auf dem Platz."
+        },
+        {
+            "de": "das Theater",
+            "ar": "المسرح",
+            "sentence": "Wir gehen heute Abend ins Theater."
+        },
+        {
+            "de": "das Kino",
+            "ar": "السينما",
+            "sentence": "Im Kino läuft ein neuer Film."
+        },
+        {
+            "de": "die Bibliothek",
+            "ar": "المكتبة",
+            "sentence": "Ich leihe ein Buch in der Bibliothek aus."
+        },
+        {
+            "de": "die Post",
+            "ar": "مكتب البريد",
+            "sentence": "Die Post ist neben der Bank."
+        },
+        {
+            "de": "die Bank",
+            "ar": "البنك",
+            "sentence": "Die Bank öffnet um neun Uhr."
+        },
+        {
+            "de": "das Rathaus",
+            "ar": "مبنى البلدية",
+            "sentence": "Das Rathaus ist ein altes Gebäude."
+        },
+        {
+            "de": "die Polizei",
+            "ar": "الشرطة",
+            "sentence": "Rufen Sie bitte die Polizei!"
+        },
+        {
+            "de": "die Feuerwehr",
+            "ar": "الإطفاء",
+            "sentence": "Die Feuerwehr kommt sofort."
+        },
+        {
+            "de": "die Schule",
+            "ar": "المدرسة",
+            "sentence": "Meine Tochter geht in die Schule."
+        },
+        {
+            "de": "die Universität",
+            "ar": "الجامعة",
+            "sentence": "Er studiert an der Universität."
+        },
+        {
+            "de": "das Geschäft",
+            "ar": "المتجر",
+            "sentence": "Das Geschäft schließt um sechs Uhr."
+        },
+        {
+            "de": "das Einkaufszentrum",
+            "ar": "مركز التسوق",
+            "sentence": "Im Einkaufszentrum gibt es viele Läden."
+        },
+        {
+            "de": "der Friseur",
+            "ar": "الحلاق",
+            "sentence": "Der Friseur schneidet mir die Haare."
+        },
+        {
+            "de": "die Grenze",
+            "ar": "الحدود",
+            "sentence": "An der Grenze kontrollieren sie die Pässe."
+        },
+        {
+            "de": "die Karte (Stadtplan)",
+            "ar": "الخريطة",
+            "sentence": "Ich brauche eine Karte von der Stadt."
+        },
+        {
+            "de": "der Norden",
+            "ar": "الشمال",
+            "sentence": "Hamburg liegt im Norden von Deutschland."
+        },
+        {
+            "de": "der Süden",
+            "ar": "الجنوب",
+            "sentence": "Im Süden ist es oft warm."
+        },
+        {
+            "de": "der Osten",
+            "ar": "الشرق",
+            "sentence": "Die Sonne geht im Osten auf."
+        },
+        {
+            "de": "der Westen",
+            "ar": "الغرب",
+            "sentence": "Im Westen gibt es viele Städte."
+        },
+        {
+            "de": "die Richtung",
+            "ar": "الاتجاه",
+            "sentence": "In welche Richtung müssen wir gehen?"
+        },
+        {
+            "de": "die Adresse",
+            "ar": "العنوان",
+            "sentence": "Wie ist Ihre Adresse?"
+        },
+        {
+            "de": "die Hauptstadt",
+            "ar": "العاصمة",
+            "sentence": "Berlin ist die Hauptstadt von Deutschland."
+        },
+        {
+            "de": "das Ausland",
+            "ar": "الخارج",
+            "sentence": "Mein Bruder lebt im Ausland."
+        },
+        {
+            "de": "die Heimat",
+            "ar": "الوطن",
+            "sentence": "Meine Heimat ist weit weg."
+        },
+        {
+            "de": "das Gepäck",
+            "ar": "الأمتعة",
+            "sentence": "Mein Gepäck ist sehr schwer."
+        },
+        {
+            "de": "das Visum",
+            "ar": "التأشيرة",
+            "sentence": "Ich brauche ein Visum für die Reise."
+        },
+        {
+            "de": "der Zoll",
+            "ar": "الجمارك",
+            "sentence": "Am Zoll muss ich meine Tasche öffnen."
+        },
+        {
+            "de": "die Sehenswürdigkeit",
+            "ar": "المعلم السياحي",
+            "sentence": "Die Sehenswürdigkeit ist sehr bekannt."
+        },
+        {
+            "de": "der Stadtplan",
+            "ar": "خريطة المدينة",
+            "sentence": "Ich suche einen Stadtplan von Wien."
+        },
+        {
+            "de": "der Reiseführer",
+            "ar": "الدليل السياحي",
+            "sentence": "Der Reiseführer hilft uns in der Stadt."
+        },
+        {
+            "de": "die Überfahrt",
+            "ar": "العبور",
+            "sentence": "Die Überfahrt dauert drei Stunden."
+        },
+        {
+            "de": "der Ausflug",
+            "ar": "الرحلة القصيرة",
+            "sentence": "Am Sonntag machen wir einen Ausflug."
+        },
+        {
+            "de": "das Abenteuer",
+            "ar": "المغامرة",
+            "sentence": "Die Reise war ein großes Abenteuer."
+        },
+        {
+            "de": "die Landschaft",
+            "ar": "المنظر الطبيعي",
+            "sentence": "Die Landschaft hier ist sehr schön."
+        },
+        {
+            "de": "die Wüste",
+            "ar": "الصحراء",
+            "sentence": "Die Wüste ist heiß und trocken."
+        },
+        {
+            "de": "der Wald",
+            "ar": "الغابة",
+            "sentence": "Wir gehen im Wald spazieren."
+        },
+        {
+            "de": "der See",
+            "ar": "البحيرة",
+            "sentence": "Wir schwimmen im See."
+        },
+        {
+            "de": "der Fluss",
+            "ar": "النهر",
+            "sentence": "Der Fluss ist lang und breit."
+        },
+        {
+            "de": "das Tal",
+            "ar": "الوادي",
+            "sentence": "Das Tal ist grün und ruhig."
+        },
+        {
+            "de": "die Küste",
+            "ar": "الساحل",
+            "sentence": "Die Küste ist sehr schön."
+        },
+        {
+            "de": "der Hügel",
+            "ar": "التل",
+            "sentence": "Auf dem Hügel steht ein Haus."
+        },
+        {
+            "de": "der Weg zurück",
+            "ar": "طريق العودة",
+            "sentence": "Der Weg zurück ist lang."
+        },
+        {
+            "de": "die Einreise",
+            "ar": "دخول البلاد",
+            "sentence": "Die Einreise nach Deutschland ist einfach."
+        }
+    ],
+    "8 - Arbeit & Schule": [
+        {
+            "de": "die Arbeit",
+            "ar": "العمل",
+            "sentence": "Ich gehe jeden Morgen zur Arbeit."
+        },
+        {
+            "de": "der Beruf",
+            "ar": "المهنة",
+            "sentence": "Mein Beruf ist sehr interessant."
+        },
+        {
+            "de": "der Job",
+            "ar": "الوظيفة",
+            "sentence": "Er sucht einen neuen Job."
+        },
+        {
+            "de": "das Büro",
+            "ar": "المكتب",
+            "sentence": "Das Büro ist im zweiten Stock."
+        },
+        {
+            "de": "die Firma",
+            "ar": "الشركة",
+            "sentence": "Meine Firma ist ziemlich groß."
+        },
+        {
+            "de": "der Chef",
+            "ar": "المدير",
+            "sentence": "Der Chef ist heute nicht da."
+        },
+        {
+            "de": "der Kollege",
+            "ar": "الزميل",
+            "sentence": "Mein Kollege hilft mir oft."
+        },
+        {
+            "de": "der Angestellte",
+            "ar": "الموظف",
+            "sentence": "Der Angestellte arbeitet am Computer."
+        },
+        {
+            "de": "der Arbeiter",
+            "ar": "العامل",
+            "sentence": "Der Arbeiter trägt einen Helm."
+        },
+        {
+            "de": "der Lehrer",
+            "ar": "المعلم",
+            "sentence": "Der Lehrer erklärt die Aufgabe."
+        },
+        {
+            "de": "die Lehrerin",
+            "ar": "المعلمة",
+            "sentence": "Die Lehrerin schreibt an die Tafel."
+        },
+        {
+            "de": "der Schüler",
+            "ar": "التلميذ",
+            "sentence": "Der Schüler macht seine Hausaufgaben."
+        },
+        {
+            "de": "der Student",
+            "ar": "الطالب الجامعي",
+            "sentence": "Der Student wohnt in der Stadt."
+        },
+        {
+            "de": "der Ingenieur",
+            "ar": "المهندس",
+            "sentence": "Mein Bruder ist Ingenieur."
+        },
+        {
+            "de": "der Anwalt",
+            "ar": "المحامي",
+            "sentence": "Der Anwalt hilft dem Mann."
+        },
+        {
+            "de": "der Richter",
+            "ar": "القاضي",
+            "sentence": "Der Richter spricht mit dem Zeugen."
+        },
+        {
+            "de": "der Polizist",
+            "ar": "الشرطي",
+            "sentence": "Der Polizist steht an der Straße."
+        },
+        {
+            "de": "der Koch",
+            "ar": "الطباخ",
+            "sentence": "Der Koch macht eine leckere Suppe."
+        },
+        {
+            "de": "der Bäcker",
+            "ar": "الخباز",
+            "sentence": "Der Bäcker backt frisches Brot."
+        },
+        {
+            "de": "der Fahrer",
+            "ar": "السائق المحترف",
+            "sentence": "Der Fahrer fährt den Bus."
+        },
+        {
+            "de": "der Verkäufer",
+            "ar": "البائع",
+            "sentence": "Die Verkäuferin ist nett, der Verkäufer auch."
+        },
+        {
+            "de": "der Landwirt",
+            "ar": "المزارع",
+            "sentence": "Der Landwirt arbeitet auf dem Feld."
+        },
+        {
+            "de": "der Maler",
+            "ar": "الرسام",
+            "sentence": "Der Maler streicht die Wand."
+        },
+        {
+            "de": "der Künstler",
+            "ar": "الفنان",
+            "sentence": "Der Künstler malt ein Bild."
+        },
+        {
+            "de": "der Sänger",
+            "ar": "المغني",
+            "sentence": "Der Sänger singt ein schönes Lied."
+        },
+        {
+            "de": "der Schauspieler",
+            "ar": "الممثل",
+            "sentence": "Der Schauspieler spielt im Theater."
+        },
+        {
+            "de": "der Journalist",
+            "ar": "الصحفي",
+            "sentence": "Der Journalist schreibt einen Artikel."
+        },
+        {
+            "de": "der Programmierer",
+            "ar": "المبرمج",
+            "sentence": "Der Programmierer arbeitet am Computer."
+        },
+        {
+            "de": "der Elektriker",
+            "ar": "الكهربائي",
+            "sentence": "Der Elektriker repariert das Licht."
+        },
+        {
+            "de": "der Mechaniker",
+            "ar": "الميكانيكي",
+            "sentence": "Der Mechaniker repariert mein Auto."
+        },
+        {
+            "de": "das Gehalt",
+            "ar": "الراتب",
+            "sentence": "Das Gehalt kommt am Monatsende."
+        },
+        {
+            "de": "der Lohn",
+            "ar": "الأجر",
+            "sentence": "Der Lohn ist hier ziemlich gut."
+        },
+        {
+            "de": "der Vertrag",
+            "ar": "العقد",
+            "sentence": "Ich unterschreibe den Vertrag heute."
+        },
+        {
+            "de": "die Bewerbung",
+            "ar": "طلب التوظيف",
+            "sentence": "Ich schreibe eine Bewerbung für den Job."
+        },
+        {
+            "de": "der Lebenslauf",
+            "ar": "السيرة الذاتية",
+            "sentence": "Mein Lebenslauf ist nicht lang."
+        },
+        {
+            "de": "das Vorstellungsgespräch",
+            "ar": "مقابلة العمل",
+            "sentence": "Morgen habe ich ein Vorstellungsgespräch."
+        },
+        {
+            "de": "die Erfahrung",
+            "ar": "الخبرة",
+            "sentence": "Sie hat viel Erfahrung im Verkauf."
+        },
+        {
+            "de": "die Aufgabe",
+            "ar": "المهمة",
+            "sentence": "Das ist eine schwere Aufgabe."
+        },
+        {
+            "de": "das Projekt",
+            "ar": "المشروع",
+            "sentence": "Wir arbeiten an einem neuen Projekt."
+        },
+        {
+            "de": "die Besprechung",
+            "ar": "الاجتماع",
+            "sentence": "Die Besprechung beginnt um neun Uhr."
+        },
+        {
+            "de": "die Pause",
+            "ar": "الاستراحة",
+            "sentence": "Wir machen jetzt eine kurze Pause."
+        },
+        {
+            "de": "der Feierabend",
+            "ar": "نهاية يوم العمل",
+            "sentence": "Nach dem Feierabend gehe ich nach Hause."
+        },
+        {
+            "de": "der Urlaub (Arbeit)",
+            "ar": "الإجازة السنوية",
+            "sentence": "Ich habe nächste Woche Urlaub."
+        },
+        {
+            "de": "die Kündigung",
+            "ar": "الاستقالة / الفصل",
+            "sentence": "Er hat die Kündigung bekommen."
+        },
+        {
+            "de": "die Rente",
+            "ar": "التقاعد",
+            "sentence": "Mein Opa lebt von der Rente."
+        },
+        {
+            "de": "die Arbeitslosigkeit",
+            "ar": "البطالة",
+            "sentence": "Die Arbeitslosigkeit ist ein großes Problem."
+        },
+        {
+            "de": "der Kunde",
+            "ar": "الزبون",
+            "sentence": "Der Kunde fragt nach dem Preis."
+        },
+        {
+            "de": "der Preis",
+            "ar": "السعر",
+            "sentence": "Der Preis ist zu hoch."
+        },
+        {
+            "de": "die Qualität",
+            "ar": "الجودة",
+            "sentence": "Die Qualität ist sehr gut."
+        },
+        {
+            "de": "die Produktion",
+            "ar": "الإنتاج",
+            "sentence": "Die Produktion startet im Mai."
+        },
+        {
+            "de": "die Wirtschaft",
+            "ar": "الاقتصاد",
+            "sentence": "Die Wirtschaft wächst langsam."
+        },
+        {
+            "de": "der Handel",
+            "ar": "التجارة",
+            "sentence": "Der Handel mit Obst ist wichtig."
+        },
+        {
+            "de": "die Steuer",
+            "ar": "الضريبة",
+            "sentence": "Ich zahle jedes Jahr Steuern."
+        },
+        {
+            "de": "die Versicherung",
+            "ar": "التأمين",
+            "sentence": "Die Versicherung zahlt den Schaden."
+        },
+        {
+            "de": "das Konto",
+            "ar": "الحساب البنكي",
+            "sentence": "Ich habe ein Konto bei der Bank."
+        },
+        {
+            "de": "der Kredit",
+            "ar": "القرض",
+            "sentence": "Er nimmt einen Kredit für das Haus."
+        },
+        {
+            "de": "die Schule (Bildung)",
+            "ar": "المدرسة (التعليم)",
+            "sentence": "Die Schule beginnt um acht Uhr."
+        },
+        {
+            "de": "die Klasse",
+            "ar": "الصف",
+            "sentence": "Meine Klasse hat zwanzig Schüler."
+        },
+        {
+            "de": "der Unterricht",
+            "ar": "الدرس",
+            "sentence": "Der Unterricht dauert eine Stunde."
+        },
+        {
+            "de": "die Stunde (Unterricht)",
+            "ar": "الحصة",
+            "sentence": "Die Stunde beginnt um zehn Uhr."
+        },
+        {
+            "de": "die Prüfung",
+            "ar": "الامتحان",
+            "sentence": "Morgen habe ich eine wichtige Prüfung."
+        },
+        {
+            "de": "die Note",
+            "ar": "العلامة",
+            "sentence": "Ich habe eine gute Note bekommen."
+        },
+        {
+            "de": "die Hausaufgabe",
+            "ar": "الواجب المنزلي",
+            "sentence": "Ich mache meine Hausaufgabe am Nachmittag."
+        },
+        {
+            "de": "die Frage",
+            "ar": "السؤال",
+            "sentence": "Ich habe eine Frage an den Lehrer."
+        },
+        {
+            "de": "die Antwort",
+            "ar": "الجواب",
+            "sentence": "Die Antwort ist richtig."
+        },
+        {
+            "de": "das Wort",
+            "ar": "الكلمة",
+            "sentence": "Ich kenne dieses Wort nicht."
+        },
+        {
+            "de": "der Satz",
+            "ar": "الجملة",
+            "sentence": "Der Satz ist zu lang."
+        },
+        {
+            "de": "der Buchstabe",
+            "ar": "الحرف",
+            "sentence": "Das A ist der erste Buchstabe."
+        },
+        {
+            "de": "die Sprache",
+            "ar": "اللغة",
+            "sentence": "Ich lerne gern eine neue Sprache."
+        },
+        {
+            "de": "die Grammatik",
+            "ar": "القواعد",
+            "sentence": "Die Grammatik ist manchmal schwer."
+        },
+        {
+            "de": "das Wörterbuch",
+            "ar": "القاموس",
+            "sentence": "Ich suche das Wort im Wörterbuch."
+        },
+        {
+            "de": "die Übung",
+            "ar": "التمرين",
+            "sentence": "Die Übung ist leicht."
+        },
+        {
+            "de": "der Text",
+            "ar": "النص",
+            "sentence": "Wir lesen den Text zusammen."
+        },
+        {
+            "de": "die Geschichte",
+            "ar": "القصة / التاريخ",
+            "sentence": "Ich lese eine kurze Geschichte."
+        },
+        {
+            "de": "die Mathematik",
+            "ar": "الرياضيات",
+            "sentence": "Mathematik ist mein Lieblingsfach."
+        },
+        {
+            "de": "die Physik",
+            "ar": "الفيزياء",
+            "sentence": "Physik finde ich schwierig."
+        },
+        {
+            "de": "die Chemie",
+            "ar": "الكيمياء",
+            "sentence": "In Chemie machen wir ein Experiment."
+        },
+        {
+            "de": "die Biologie",
+            "ar": "الأحياء",
+            "sentence": "In Biologie lernen wir über Tiere."
+        },
+        {
+            "de": "die Geografie",
+            "ar": "الجغرافيا",
+            "sentence": "In Geografie lernen wir die Länder."
+        },
+        {
+            "de": "die Kunst",
+            "ar": "الفن",
+            "sentence": "Ich mag Kunst und male gern."
+        },
+        {
+            "de": "die Musik",
+            "ar": "الموسيقى",
+            "sentence": "Musik macht mir viel Spaß."
+        },
+        {
+            "de": "der Sport",
+            "ar": "الرياضة",
+            "sentence": "Ich mache gern Sport."
+        },
+        {
+            "de": "die Tafel",
+            "ar": "السبورة",
+            "sentence": "Der Lehrer schreibt an die Tafel."
+        },
+        {
+            "de": "die Kreide",
+            "ar": "الطبشورة",
+            "sentence": "Die Kreide liegt auf dem Tisch."
+        },
+        {
+            "de": "das Zeugnis",
+            "ar": "الشهادة المدرسية",
+            "sentence": "Ich bekomme heute mein Zeugnis."
+        },
+        {
+            "de": "das Diplom",
+            "ar": "الدبلوم",
+            "sentence": "Sie hat ein Diplom in Chemie."
+        },
+        {
+            "de": "das Studium",
+            "ar": "الدراسة الجامعية",
+            "sentence": "Mein Studium dauert drei Jahre."
+        },
+        {
+            "de": "die Wissenschaft",
+            "ar": "العلم",
+            "sentence": "Die Wissenschaft hilft den Menschen."
+        },
+        {
+            "de": "die Forschung",
+            "ar": "البحث",
+            "sentence": "Die Forschung braucht viel Zeit."
+        },
+        {
+            "de": "das Ergebnis",
+            "ar": "النتيجة",
+            "sentence": "Das Ergebnis ist sehr gut."
         },
         {
             "de": "der Fehler",
             "ar": "الخطأ",
-            "sentence": "Es gibt einen Fehler in der Anwendung."
+            "sentence": "Das ist ein kleiner Fehler."
         },
         {
-            "de": "die Anwendung",
-            "ar": "التطبيق",
-            "sentence": "Diese Anwendung läuft auf Android und iOS."
+            "de": "das Beispiel",
+            "ar": "المثال",
+            "sentence": "Ein Beispiel hilft mir sehr."
         },
         {
-            "de": "speichern",
-            "ar": "حفظ",
-            "sentence": "Vergiss nicht, die Arbeit zu speichern."
+            "de": "die Lösung",
+            "ar": "الحل",
+            "sentence": "Wir finden bald eine Lösung."
         },
         {
-            "de": "die Datenbank",
-            "ar": "قاعدة البيانات",
-            "sentence": "Die Datenbank enthält alle Nutzerinformationen."
+            "de": "das Problem",
+            "ar": "المشكلة",
+            "sentence": "Wir haben ein großes Problem."
         },
         {
-            "de": "das Netzwerk",
-            "ar": "الشبكة",
-            "sentence": "Das Netzwerk ist ausgefallen."
+            "de": "die Idee",
+            "ar": "الفكرة",
+            "sentence": "Das ist eine gute Idee."
         },
         {
-            "de": "die Schnittstelle",
-            "ar": "الواجهة / واجهة البرمجة",
-            "sentence": "Wir nutzen eine API als Schnittstelle."
+            "de": "der Plan",
+            "ar": "الخطة",
+            "sentence": "Mein Plan ist ganz einfach."
         },
         {
-            "de": "aktualisieren",
-            "ar": "تحديث",
-            "sentence": "Du solltest die App aktualisieren."
+            "de": "das Ziel",
+            "ar": "الهدف",
+            "sentence": "Mein Ziel ist ein guter Job."
         },
         {
-            "de": "die Sicherheit",
-            "ar": "الأمان",
-            "sentence": "Die Sicherheit der Daten ist sehr wichtig."
+            "de": "der Erfolg",
+            "ar": "النجاح",
+            "sentence": "Der Erfolg kommt nicht von allein."
+        },
+        {
+            "de": "der Kurs",
+            "ar": "الدورة",
+            "sentence": "Ich besuche einen Deutschkurs."
+        },
+        {
+            "de": "der Computerraum",
+            "ar": "قاعة الحاسوب",
+            "sentence": "Der Computerraum ist im Keller."
         }
     ],
-    "Box 2": [
-    {
-      "de": "erklären",
-      "ar": "يشرح",
-      "sentence": "Kannst du mir das erklären?"
-    },
-    {
-      "de": "entscheiden",
-      "ar": "يقرر",
-      "sentence": "Ich muss mich schnell entscheiden."
-    },
-    {
-      "de": "verbessern",
-      "ar": "يحسّن",
-      "sentence": "Ich möchte mein Deutsch verbessern."
-    },
-    {
-      "de": "erreichen",
-      "ar": "يصل إلى / يحقق",
-      "sentence": "Sie hat ihr Ziel erreicht."
-    },
-    {
-      "de": "vermeiden",
-      "ar": "يتجنب",
-      "sentence": "Du solltest Fehler vermeiden."
-    },
-    {
-      "de": "vorschlagen",
-      "ar": "يقترح",
-      "sentence": "Ich möchte eine Lösung vorschlagen."
-    },
-    {
-      "de": "überzeugen",
-      "ar": "يقنع",
-      "sentence": "Er hat mich überzeugt, das Projekt zu starten."
-    },
-    {
-      "de": "vergleichen",
-      "ar": "يقارن",
-      "sentence": "Wir können die beiden Methoden vergleichen."
-    },
-    {
-      "de": "annehmen",
-      "ar": "يقبل / يفترض",
-      "sentence": "Ich nehme an, dass das stimmt."
-    },
-    {
-      "de": "aufhören",
-      "ar": "يتوقف",
-      "sentence": "Hör auf, so viel zu arbeiten!"
-    },
-    {
-      "de": "bemerken",
-      "ar": "يلاحظ",
-      "sentence": "Ich habe den Fehler sofort bemerkt."
-    },
-    {
-      "de": "sich kümmern um",
-      "ar": "يهتم بـ / يعتني بـ",
-      "sentence": "Er kümmert sich um das Projekt."
-    },
-    {
-      "de": "versprechen",
-      "ar": "يعد / يتعهد",
-      "sentence": "Ich verspreche, pünktlich zu sein."
-    },
-    {
-      "de": "sich vorstellen",
-      "ar": "يتخيل / يعرّف بنفسه",
-      "sentence": "Stell dir vor, du lebst in Berlin."
-    },
-    {
-      "de": "zweifeln",
-      "ar": "يشك",
-      "sentence": "Ich zweifle an seiner Aussage."
-    },
-    {
-      "de": "schaffen",
-      "ar": "يتمكن / ينجز",
-      "sentence": "Ich habe es endlich geschafft!"
-    },
-    {
-      "de": "sich beschweren",
-      "ar": "يشتكي",
-      "sentence": "Er hat sich über den Service beschwert."
-    },
-    {
-      "de": "erwarten",
-      "ar": "يتوقع",
-      "sentence": "Ich erwarte eine Antwort bis morgen."
-    },
-    {
-      "de": "nutzen",
-      "ar": "يستخدم / يستفيد من",
-      "sentence": "Wir nutzen moderne Technologie im Alltag."
-    },
-    {
-      "de": "sich konzentrieren",
-      "ar": "يركز",
-      "sentence": "Ich muss mich mehr konzentrieren."
-    }],
-
-
-
-
-    "Box 3": [
-    {
-      "de": "machen",
-      "ar": "يفعل / يصنع",
-      "sentence": "Was machst du heute Abend?"
-    },
-    {
-      "de": "gehen",
-      "ar": "يذهب",
-      "sentence": "Ich gehe jeden Morgen spazieren."
-    },
-    {
-      "de": "kommen",
-      "ar": "يأتي",
-      "sentence": "Wann kommst du nach Hause?"
-    },
-    {
-      "de": "sehen",
-      "ar": "يرى",
-      "sentence": "Ich sehe ein Problem in diesem Code."
-    },
-    {
-      "de": "sagen",
-      "ar": "يقول",
-      "sentence": "Was hast du gerade gesagt?"
-    },
-    {
-      "de": "wissen",
-      "ar": "يعلم / يعرف",
-      "sentence": "Ich weiß nicht, wie das funktioniert."
-    },
-    {
-      "de": "denken",
-      "ar": "يفكر",
-      "sentence": "Ich denke, das ist eine gute Idee."
-    },
-    {
-      "de": "fragen",
-      "ar": "يسأل",
-      "sentence": "Darf ich dich etwas fragen?"
-    },
-    {
-      "de": "arbeiten",
-      "ar": "يعمل",
-      "sentence": "Sie arbeitet als Entwicklerin."
-    },
-    {
-      "de": "brauchen",
-      "ar": "يحتاج",
-      "sentence": "Ich brauche mehr Zeit für diese Aufgabe."
-    },
-    {
-      "de": "helfen",
-      "ar": "يساعد",
-      "sentence": "Kannst du mir helfen?"
-    },
-    {
-      "de": "verstehen",
-      "ar": "يفهم",
-      "sentence": "Ich verstehe diese Erklärung nicht."
-    },
-    {
-      "de": "lesen",
-      "ar": "يقرأ",
-      "sentence": "Er liest jeden Tag die Nachrichten."
-    },
-    {
-      "de": "schreiben",
-      "ar": "يكتب",
-      "sentence": "Ich schreibe gerade eine E-Mail."
-    },
-    {
-      "de": "leben",
-      "ar": "يعيش",
-      "sentence": "Sie lebt seit drei Jahren in Deutschland."
-    },
-    {
-      "de": "kaufen",
-      "ar": "يشتري",
-      "sentence": "Ich möchte einen neuen Laptop kaufen."
-    },
-    {
-      "de": "beginnen",
-      "ar": "يبدأ",
-      "sentence": "Der Kurs beginnt um neun Uhr."
-    },
-    {
-      "de": "bleiben",
-      "ar": "يبقى",
-      "sentence": "Ich bleibe heute zu Hause."
-    },
-    {
-      "de": "geben",
-      "ar": "يعطي",
-      "sentence": "Kannst du mir bitte den Code geben?"
-    },
-    {
-      "de": "lernen",
-      "ar": "يتعلم",
-      "sentence": "Ich lerne jeden Tag neue Wörter."
-    }],
-    
-    "Box 4": [],
-    "Box 5": []
+    "9 - Natur, Wetter & Tiere": [
+        {
+            "de": "die Natur",
+            "ar": "الطبيعة",
+            "sentence": "Ich liebe die Natur und gehe oft wandern."
+        },
+        {
+            "de": "die Sonne",
+            "ar": "الشمس",
+            "sentence": "Die Sonne scheint heute sehr hell."
+        },
+        {
+            "de": "der Mond",
+            "ar": "القمر",
+            "sentence": "Der Mond ist heute Nacht ganz rund."
+        },
+        {
+            "de": "der Stern",
+            "ar": "النجمة",
+            "sentence": "Ein Stern leuchtet am dunklen Himmel."
+        },
+        {
+            "de": "der Himmel",
+            "ar": "السماء",
+            "sentence": "Der Himmel ist heute blau."
+        },
+        {
+            "de": "die Wolke",
+            "ar": "السحابة",
+            "sentence": "Eine große Wolke steht über dem Berg."
+        },
+        {
+            "de": "der Regen",
+            "ar": "المطر",
+            "sentence": "Der Regen fällt den ganzen Tag."
+        },
+        {
+            "de": "der Schnee",
+            "ar": "الثلج",
+            "sentence": "Im Winter liegt viel Schnee auf der Straße."
+        },
+        {
+            "de": "der Wind",
+            "ar": "الريح",
+            "sentence": "Der Wind ist heute sehr stark."
+        },
+        {
+            "de": "der Sturm",
+            "ar": "العاصفة",
+            "sentence": "Der Sturm bricht viele Äste ab."
+        },
+        {
+            "de": "das Gewitter",
+            "ar": "الرعد والبرق",
+            "sentence": "Am Abend kommt ein starkes Gewitter."
+        },
+        {
+            "de": "der Nebel",
+            "ar": "الضباب",
+            "sentence": "Im Nebel kann man kaum etwas sehen."
+        },
+        {
+            "de": "das Wetter",
+            "ar": "الطقس",
+            "sentence": "Wie ist das Wetter morgen?"
+        },
+        {
+            "de": "die Temperatur",
+            "ar": "درجة الحرارة",
+            "sentence": "Die Temperatur liegt heute bei zwanzig Grad."
+        },
+        {
+            "de": "der Blitz",
+            "ar": "البرق",
+            "sentence": "Ein Blitz leuchtet am Himmel."
+        },
+        {
+            "de": "der Donner",
+            "ar": "الرعد",
+            "sentence": "Der Donner ist sehr laut."
+        },
+        {
+            "de": "der Regenbogen",
+            "ar": "قوس قزح",
+            "sentence": "Nach dem Regen sehen wir einen Regenbogen."
+        },
+        {
+            "de": "das Eis (gefroren)",
+            "ar": "الجليد",
+            "sentence": "Das Eis auf dem See ist dick."
+        },
+        {
+            "de": "die Hitze",
+            "ar": "الحر",
+            "sentence": "Im Sommer ist die Hitze oft zu groß."
+        },
+        {
+            "de": "die Kälte",
+            "ar": "البرد",
+            "sentence": "Die Kälte im Januar mag ich nicht."
+        },
+        {
+            "de": "die Erde",
+            "ar": "الأرض",
+            "sentence": "Die Erde dreht sich um die Sonne."
+        },
+        {
+            "de": "die Welt",
+            "ar": "العالم",
+            "sentence": "Ich möchte die ganze Welt sehen."
+        },
+        {
+            "de": "das Meer (Natur)",
+            "ar": "المحيط / البحر",
+            "sentence": "Wir fahren im Sommer ans Meer."
+        },
+        {
+            "de": "das Wasser (Natur)",
+            "ar": "المياه",
+            "sentence": "Das Wasser im See ist kalt."
+        },
+        {
+            "de": "der Sand",
+            "ar": "الرمل",
+            "sentence": "Die Kinder spielen im Sand."
+        },
+        {
+            "de": "der Stein",
+            "ar": "الحجر",
+            "sentence": "Der Stein ist sehr schwer."
+        },
+        {
+            "de": "der Fels",
+            "ar": "الصخرة",
+            "sentence": "Der Fels über dem Weg ist hoch."
+        },
+        {
+            "de": "die Wiese",
+            "ar": "المرج",
+            "sentence": "Die Kühe stehen auf der Wiese."
+        },
+        {
+            "de": "das Feld",
+            "ar": "الحقل",
+            "sentence": "Der Bauer arbeitet auf dem Feld."
+        },
+        {
+            "de": "der Baum",
+            "ar": "الشجرة",
+            "sentence": "Der Baum im Garten ist alt."
+        },
+        {
+            "de": "das Blatt",
+            "ar": "الورقة",
+            "sentence": "Im Herbst fällt jedes Blatt vom Baum."
+        },
+        {
+            "de": "die Blume",
+            "ar": "الزهرة",
+            "sentence": "Die Blume riecht sehr gut."
+        },
+        {
+            "de": "die Rose",
+            "ar": "الوردة",
+            "sentence": "Er schenkt ihr eine rote Rose."
+        },
+        {
+            "de": "das Gras",
+            "ar": "العشب",
+            "sentence": "Das Gras im Garten ist grün."
+        },
+        {
+            "de": "der Busch",
+            "ar": "الشجيرة",
+            "sentence": "Der Busch steht neben dem Haus."
+        },
+        {
+            "de": "die Wurzel",
+            "ar": "الجذر",
+            "sentence": "Die Wurzel des Baumes ist sehr tief."
+        },
+        {
+            "de": "der Ast",
+            "ar": "الغصن",
+            "sentence": "Auf dem Ast sitzt ein Vogel."
+        },
+        {
+            "de": "die Frucht",
+            "ar": "الثمرة",
+            "sentence": "Die Frucht ist süß und reif."
+        },
+        {
+            "de": "der Samen",
+            "ar": "البذرة",
+            "sentence": "Aus einem kleinen Samen wächst eine Blume."
+        },
+        {
+            "de": "das Tier",
+            "ar": "الحيوان",
+            "sentence": "Jedes Tier braucht Wasser und Futter."
+        },
+        {
+            "de": "der Hund",
+            "ar": "الكلب",
+            "sentence": "Mein Hund spielt gern im Park."
+        },
+        {
+            "de": "die Katze",
+            "ar": "القطة",
+            "sentence": "Die Katze schläft auf dem Sofa."
+        },
+        {
+            "de": "das Pferd",
+            "ar": "الحصان",
+            "sentence": "Das Pferd läuft schnell über die Wiese."
+        },
+        {
+            "de": "die Kuh",
+            "ar": "البقرة",
+            "sentence": "Die Kuh gibt jeden Tag Milch."
+        },
+        {
+            "de": "das Schaf",
+            "ar": "الخروف",
+            "sentence": "Das Schaf steht auf dem Feld."
+        },
+        {
+            "de": "die Ziege",
+            "ar": "الماعز",
+            "sentence": "Die Ziege frisst gern Gras."
+        },
+        {
+            "de": "das Schwein",
+            "ar": "الخنزير",
+            "sentence": "Das Schwein lebt auf dem Bauernhof."
+        },
+        {
+            "de": "das Huhn",
+            "ar": "الدجاجة",
+            "sentence": "Das Huhn legt jeden Tag ein Ei."
+        },
+        {
+            "de": "die Ente",
+            "ar": "البطة",
+            "sentence": "Die Ente schwimmt auf dem See."
+        },
+        {
+            "de": "der Esel",
+            "ar": "الحمار",
+            "sentence": "Der Esel trägt die schweren Säcke."
+        },
+        {
+            "de": "das Kamel",
+            "ar": "الجمل",
+            "sentence": "Das Kamel lebt in der Wüste."
+        },
+        {
+            "de": "der Löwe",
+            "ar": "الأسد",
+            "sentence": "Der Löwe ist der König der Tiere."
+        },
+        {
+            "de": "der Tiger",
+            "ar": "النمر",
+            "sentence": "Der Tiger hat schöne Streifen."
+        },
+        {
+            "de": "der Elefant",
+            "ar": "الفيل",
+            "sentence": "Der Elefant ist sehr groß und schwer."
+        },
+        {
+            "de": "der Affe",
+            "ar": "القرد",
+            "sentence": "Der Affe isst eine Banane."
+        },
+        {
+            "de": "der Bär",
+            "ar": "الدب",
+            "sentence": "Der Bär schläft im Winter."
+        },
+        {
+            "de": "der Wolf",
+            "ar": "الذئب",
+            "sentence": "Der Wolf lebt im Wald."
+        },
+        {
+            "de": "der Fuchs",
+            "ar": "الثعلب",
+            "sentence": "Der Fuchs läuft durch den Wald."
+        },
+        {
+            "de": "der Hase",
+            "ar": "الأرنب",
+            "sentence": "Der Hase hat lange Ohren."
+        },
+        {
+            "de": "die Maus",
+            "ar": "الفأر",
+            "sentence": "Die Maus isst den Käse."
+        },
+        {
+            "de": "die Ratte",
+            "ar": "الجرذ",
+            "sentence": "Die Ratte läuft durch den Keller."
+        },
+        {
+            "de": "die Schlange",
+            "ar": "الأفعى",
+            "sentence": "Die Schlange ist lang und gefährlich."
+        },
+        {
+            "de": "das Krokodil",
+            "ar": "التمساح",
+            "sentence": "Das Krokodil lebt im Fluss."
+        },
+        {
+            "de": "der Frosch",
+            "ar": "الضفدع",
+            "sentence": "Der Frosch springt ins Wasser."
+        },
+        {
+            "de": "der Vogel",
+            "ar": "الطائر",
+            "sentence": "Der Vogel singt am Morgen."
+        },
+        {
+            "de": "der Adler",
+            "ar": "النسر",
+            "sentence": "Der Adler fliegt hoch über den Bergen."
+        },
+        {
+            "de": "die Taube",
+            "ar": "الحمامة",
+            "sentence": "Die Taube sitzt auf dem Dach."
+        },
+        {
+            "de": "die Eule",
+            "ar": "البومة",
+            "sentence": "Die Eule jagt in der Nacht."
+        },
+        {
+            "de": "der Papagei",
+            "ar": "الببغاء",
+            "sentence": "Der Papagei kann sprechen."
+        },
+        {
+            "de": "der Hai",
+            "ar": "القرش",
+            "sentence": "Der Hai lebt im Meer."
+        },
+        {
+            "de": "der Wal",
+            "ar": "الحوت",
+            "sentence": "Der Wal ist ein sehr großes Tier."
+        },
+        {
+            "de": "der Delfin",
+            "ar": "الدلفين",
+            "sentence": "Der Delfin spielt im Wasser."
+        },
+        {
+            "de": "die Biene",
+            "ar": "النحلة",
+            "sentence": "Die Biene sammelt Honig."
+        },
+        {
+            "de": "die Ameise",
+            "ar": "النملة",
+            "sentence": "Die Ameise trägt ein Blatt."
+        },
+        {
+            "de": "die Fliege",
+            "ar": "الذبابة",
+            "sentence": "Eine Fliege sitzt auf dem Tisch."
+        },
+        {
+            "de": "die Mücke",
+            "ar": "البعوضة",
+            "sentence": "Eine Mücke hat mich gestochen."
+        },
+        {
+            "de": "der Schmetterling",
+            "ar": "الفراشة",
+            "sentence": "Der Schmetterling fliegt über die Blumen."
+        },
+        {
+            "de": "die Spinne",
+            "ar": "العنكبوت",
+            "sentence": "Die Spinne sitzt im Netz."
+        },
+        {
+            "de": "der Käfer",
+            "ar": "الخنفساء",
+            "sentence": "Ein Käfer läuft über den Weg."
+        },
+        {
+            "de": "der Fisch (Tier)",
+            "ar": "السمكة",
+            "sentence": "Der Fisch schwimmt im Teich."
+        },
+        {
+            "de": "die Umwelt",
+            "ar": "البيئة",
+            "sentence": "Wir müssen die Umwelt schützen."
+        },
+        {
+            "de": "die Luft",
+            "ar": "الهواء",
+            "sentence": "Die Luft auf dem Land ist gut."
+        },
+        {
+            "de": "die Verschmutzung",
+            "ar": "التلوث",
+            "sentence": "Die Verschmutzung der Flüsse ist ein Problem."
+        },
+        {
+            "de": "das Klima",
+            "ar": "المناخ",
+            "sentence": "Das Klima wird immer wärmer."
+        },
+        {
+            "de": "die Jahreszeit",
+            "ar": "الفصل",
+            "sentence": "Der Sommer ist meine liebste Jahreszeit."
+        },
+        {
+            "de": "das Feuer (Natur)",
+            "ar": "الحريق",
+            "sentence": "Das Feuer im Wald ist sehr gefährlich."
+        },
+        {
+            "de": "das Erdbeben",
+            "ar": "الزلزال",
+            "sentence": "Das Erdbeben hat viele Häuser zerstört."
+        },
+        {
+            "de": "die Überschwemmung",
+            "ar": "الفيضان",
+            "sentence": "Die Überschwemmung hat die Stadt getroffen."
+        },
+        {
+            "de": "der Vulkan",
+            "ar": "البركان",
+            "sentence": "Der Vulkan ist wieder aktiv."
+        },
+        {
+            "de": "das Licht",
+            "ar": "الضوء",
+            "sentence": "Das Licht der Sonne macht mich froh."
+        },
+        {
+            "de": "der Schatten",
+            "ar": "الظل",
+            "sentence": "Wir sitzen im Schatten eines Baumes."
+        },
+        {
+            "de": "die Dunkelheit",
+            "ar": "الظلام",
+            "sentence": "In der Dunkelheit habe ich Angst."
+        },
+        {
+            "de": "die Energie",
+            "ar": "الطاقة",
+            "sentence": "Solarenergie ist gut für die Umwelt."
+        },
+        {
+            "de": "das Gas",
+            "ar": "الغاز",
+            "sentence": "Wir kochen mit Gas."
+        },
+        {
+            "de": "das Eisen",
+            "ar": "الحديد",
+            "sentence": "Eisen ist hart und schwer."
+        },
+        {
+            "de": "das Gold",
+            "ar": "الذهب",
+            "sentence": "Der Ring ist aus Gold."
+        },
+        {
+            "de": "das Silber",
+            "ar": "الفضة",
+            "sentence": "Sie trägt eine Kette aus Silber."
+        },
+        {
+            "de": "das Holz",
+            "ar": "الخشب",
+            "sentence": "Der Tisch ist aus Holz."
+        },
+        {
+            "de": "das Glas (Material)",
+            "ar": "الزجاج",
+            "sentence": "Das Glas ist kaputt."
+        },
+        {
+            "de": "das Plastik",
+            "ar": "البلاستيك",
+            "sentence": "Plastik ist schlecht für die Umwelt."
+        }
+    ],
+    "10 - Wörter & Redewendungen": [
+        {
+            "de": "ich",
+            "ar": "أنا",
+            "sentence": "Ich bin müde und gehe nach Hause."
+        },
+        {
+            "de": "du",
+            "ar": "أنت",
+            "sentence": "Du bist mein bester Freund."
+        },
+        {
+            "de": "er",
+            "ar": "هو",
+            "sentence": "Er arbeitet heute im Büro."
+        },
+        {
+            "de": "sie",
+            "ar": "هي",
+            "sentence": "Sie wohnt in einer kleinen Stadt."
+        },
+        {
+            "de": "es",
+            "ar": "هو / هي (لغير العاقل)",
+            "sentence": "Es ist heute sehr kalt."
+        },
+        {
+            "de": "wir",
+            "ar": "نحن",
+            "sentence": "Wir essen jeden Tag zusammen."
+        },
+        {
+            "de": "ihr",
+            "ar": "أنتم",
+            "sentence": "Ihr habt ein schönes Haus."
+        },
+        {
+            "de": "Sie",
+            "ar": "حضرتك",
+            "sentence": "Wie heißen Sie, bitte?"
+        },
+        {
+            "de": "mein",
+            "ar": "لي",
+            "sentence": "Das ist mein Bruder."
+        },
+        {
+            "de": "dein",
+            "ar": "لك",
+            "sentence": "Wo ist dein Handy?"
+        },
+        {
+            "de": "in",
+            "ar": "في",
+            "sentence": "Ich wohne in Berlin."
+        },
+        {
+            "de": "an",
+            "ar": "على / عند",
+            "sentence": "Das Bild hängt an der Wand."
+        },
+        {
+            "de": "auf",
+            "ar": "فوق",
+            "sentence": "Das Buch liegt auf dem Tisch."
+        },
+        {
+            "de": "unter",
+            "ar": "تحت",
+            "sentence": "Die Katze ist unter dem Bett."
+        },
+        {
+            "de": "über",
+            "ar": "فوق / حول",
+            "sentence": "Wir fliegen über die Berge."
+        },
+        {
+            "de": "vor",
+            "ar": "أمام / قبل",
+            "sentence": "Das Auto steht vor dem Haus."
+        },
+        {
+            "de": "hinter",
+            "ar": "خلف",
+            "sentence": "Der Garten ist hinter dem Haus."
+        },
+        {
+            "de": "neben",
+            "ar": "بجانب",
+            "sentence": "Die Bank ist neben dem Supermarkt."
+        },
+        {
+            "de": "zwischen",
+            "ar": "بين",
+            "sentence": "Der Park liegt zwischen den Häusern."
+        },
+        {
+            "de": "mit",
+            "ar": "مع",
+            "sentence": "Ich gehe mit meiner Freundin ins Kino."
+        },
+        {
+            "de": "ohne",
+            "ar": "بدون",
+            "sentence": "Er trinkt Kaffee ohne Zucker."
+        },
+        {
+            "de": "für",
+            "ar": "من أجل",
+            "sentence": "Das Geschenk ist für dich."
+        },
+        {
+            "de": "gegen",
+            "ar": "ضد",
+            "sentence": "Ich bin nicht gegen deine Idee."
+        },
+        {
+            "de": "durch",
+            "ar": "عبر",
+            "sentence": "Wir gehen durch den Park."
+        },
+        {
+            "de": "um",
+            "ar": "حول",
+            "sentence": "Wir sitzen um den Tisch."
+        },
+        {
+            "de": "bei",
+            "ar": "عند",
+            "sentence": "Ich bin heute bei meiner Oma."
+        },
+        {
+            "de": "nach",
+            "ar": "بعد",
+            "sentence": "Nach der Arbeit gehe ich einkaufen."
+        },
+        {
+            "de": "von",
+            "ar": "من",
+            "sentence": "Das Geschenk ist von meiner Mutter."
+        },
+        {
+            "de": "zu",
+            "ar": "إلى",
+            "sentence": "Ich gehe zum Arzt."
+        },
+        {
+            "de": "aus",
+            "ar": "من (مصدر)",
+            "sentence": "Er kommt aus der Türkei."
+        },
+        {
+            "de": "bis",
+            "ar": "حتى",
+            "sentence": "Ich arbeite bis fünf Uhr."
+        },
+        {
+            "de": "seit",
+            "ar": "منذ",
+            "sentence": "Ich lerne seit einem Jahr Deutsch."
+        },
+        {
+            "de": "während",
+            "ar": "خلال",
+            "sentence": "Während des Films essen wir Popcorn."
+        },
+        {
+            "de": "wegen",
+            "ar": "بسبب",
+            "sentence": "Wegen des Regens bleiben wir zu Hause."
+        },
+        {
+            "de": "und",
+            "ar": "و",
+            "sentence": "Ich mag Tee und Kaffee."
+        },
+        {
+            "de": "oder",
+            "ar": "أو",
+            "sentence": "Möchtest du Tee oder Wasser?"
+        },
+        {
+            "de": "aber",
+            "ar": "لكن",
+            "sentence": "Ich bin müde, aber glücklich."
+        },
+        {
+            "de": "denn",
+            "ar": "لأن",
+            "sentence": "Ich bleibe zu Hause, denn ich bin krank."
+        },
+        {
+            "de": "weil",
+            "ar": "لأن (جملة فرعية)",
+            "sentence": "Ich lerne, weil ich Deutsch mag."
+        },
+        {
+            "de": "dass",
+            "ar": "أن",
+            "sentence": "Ich glaube, dass er kommt."
+        },
+        {
+            "de": "wenn",
+            "ar": "إذا / عندما",
+            "sentence": "Wenn es regnet, bleibe ich zu Hause."
+        },
+        {
+            "de": "ob",
+            "ar": "ما إذا",
+            "sentence": "Ich weiß nicht, ob er kommt."
+        },
+        {
+            "de": "obwohl",
+            "ar": "رغم أن",
+            "sentence": "Er geht arbeiten, obwohl er krank ist."
+        },
+        {
+            "de": "deshalb",
+            "ar": "لذلك",
+            "sentence": "Ich bin krank, deshalb bleibe ich im Bett."
+        },
+        {
+            "de": "also",
+            "ar": "إذن",
+            "sentence": "Es ist spät, also gehen wir nach Hause."
+        },
+        {
+            "de": "auch",
+            "ar": "أيضًا",
+            "sentence": "Ich komme auch mit."
+        },
+        {
+            "de": "noch",
+            "ar": "ما زال",
+            "sentence": "Er schläft noch."
+        },
+        {
+            "de": "schon",
+            "ar": "بالفعل",
+            "sentence": "Ich habe schon gegessen."
+        },
+        {
+            "de": "nur",
+            "ar": "فقط",
+            "sentence": "Ich habe nur fünf Euro."
+        },
+        {
+            "de": "sehr",
+            "ar": "جدًا",
+            "sentence": "Das Essen ist sehr gut."
+        },
+        {
+            "de": "viel",
+            "ar": "كثير",
+            "sentence": "Ich habe viel Arbeit."
+        },
+        {
+            "de": "wenig",
+            "ar": "قليل",
+            "sentence": "Wir haben wenig Zeit."
+        },
+        {
+            "de": "mehr",
+            "ar": "أكثر",
+            "sentence": "Ich möchte mehr Wasser trinken."
+        },
+        {
+            "de": "weniger",
+            "ar": "أقل",
+            "sentence": "Er isst weniger Fleisch."
+        },
+        {
+            "de": "ganz",
+            "ar": "كامل",
+            "sentence": "Ich habe den ganzen Tag gearbeitet."
+        },
+        {
+            "de": "etwas",
+            "ar": "شيء ما",
+            "sentence": "Ich brauche etwas Zeit."
+        },
+        {
+            "de": "nichts",
+            "ar": "لا شيء",
+            "sentence": "Ich habe nichts gegessen."
+        },
+        {
+            "de": "alles",
+            "ar": "كل شيء",
+            "sentence": "Er weiß alles."
+        },
+        {
+            "de": "jemand",
+            "ar": "شخص ما",
+            "sentence": "Jemand klingelt an der Tür."
+        },
+        {
+            "de": "niemand",
+            "ar": "لا أحد",
+            "sentence": "Niemand ist zu Hause."
+        },
+        {
+            "de": "hier",
+            "ar": "هنا",
+            "sentence": "Ich wohne hier."
+        },
+        {
+            "de": "dort",
+            "ar": "هناك",
+            "sentence": "Mein Bruder wohnt dort."
+        },
+        {
+            "de": "links",
+            "ar": "يسار",
+            "sentence": "Biegen Sie links ab."
+        },
+        {
+            "de": "rechts",
+            "ar": "يمين",
+            "sentence": "Die Bank ist rechts."
+        },
+        {
+            "de": "geradeaus",
+            "ar": "مباشرة",
+            "sentence": "Gehen Sie geradeaus, dann ist es links."
+        },
+        {
+            "de": "oben",
+            "ar": "فوق (مكان)",
+            "sentence": "Das Zimmer ist oben."
+        },
+        {
+            "de": "unten",
+            "ar": "تحت (مكان)",
+            "sentence": "Die Küche ist unten."
+        },
+        {
+            "de": "drinnen",
+            "ar": "في الداخل",
+            "sentence": "Es ist kalt, wir bleiben drinnen."
+        },
+        {
+            "de": "draußen",
+            "ar": "في الخارج",
+            "sentence": "Die Kinder spielen draußen."
+        },
+        {
+            "de": "überall",
+            "ar": "في كل مكان",
+            "sentence": "Hier gibt es überall Blumen."
+        },
+        {
+            "de": "wer",
+            "ar": "من",
+            "sentence": "Wer ist das?"
+        },
+        {
+            "de": "was",
+            "ar": "ماذا",
+            "sentence": "Was machst du heute?"
+        },
+        {
+            "de": "wo",
+            "ar": "أين",
+            "sentence": "Wo wohnst du?"
+        },
+        {
+            "de": "wann",
+            "ar": "متى",
+            "sentence": "Wann kommst du nach Hause?"
+        },
+        {
+            "de": "warum",
+            "ar": "لماذا",
+            "sentence": "Warum lernst du Deutsch?"
+        },
+        {
+            "de": "wie",
+            "ar": "كيف",
+            "sentence": "Wie heißt du?"
+        },
+        {
+            "de": "wohin",
+            "ar": "إلى أين",
+            "sentence": "Wohin gehst du?"
+        },
+        {
+            "de": "woher",
+            "ar": "من أين",
+            "sentence": "Woher kommst du?"
+        },
+        {
+            "de": "welche",
+            "ar": "أي",
+            "sentence": "Welche Farbe magst du?"
+        },
+        {
+            "de": "ja",
+            "ar": "نعم",
+            "sentence": "Ja, das stimmt."
+        },
+        {
+            "de": "nein",
+            "ar": "لا",
+            "sentence": "Nein, ich komme nicht mit."
+        },
+        {
+            "de": "vielleicht",
+            "ar": "ربما",
+            "sentence": "Vielleicht komme ich morgen."
+        },
+        {
+            "de": "bitte",
+            "ar": "من فضلك",
+            "sentence": "Ein Kaffee, bitte."
+        },
+        {
+            "de": "danke",
+            "ar": "شكرًا",
+            "sentence": "Danke für deine Hilfe."
+        },
+        {
+            "de": "Entschuldigung",
+            "ar": "المعذرة",
+            "sentence": "Entschuldigung, wo ist der Bahnhof?"
+        },
+        {
+            "de": "Hallo",
+            "ar": "مرحبًا",
+            "sentence": "Hallo, ich bin Anna."
+        },
+        {
+            "de": "Tschüss",
+            "ar": "وداعًا",
+            "sentence": "Tschüss, bis morgen!"
+        },
+        {
+            "de": "Guten Morgen",
+            "ar": "صباح الخير",
+            "sentence": "Guten Morgen, Frau Müller!"
+        },
+        {
+            "de": "Guten Abend",
+            "ar": "مساء الخير",
+            "sentence": "Guten Abend, wie geht es Ihnen?"
+        },
+        {
+            "de": "Gute Nacht",
+            "ar": "تصبح على خير",
+            "sentence": "Gute Nacht, schlaf gut!"
+        },
+        {
+            "de": "Willkommen",
+            "ar": "أهلاً وسهلاً",
+            "sentence": "Willkommen in unserem Haus!"
+        },
+        {
+            "de": "Gern geschehen",
+            "ar": "عفوًا",
+            "sentence": "Danke! - Gern geschehen."
+        },
+        {
+            "de": "Wie geht's?",
+            "ar": "كيف حالك؟",
+            "sentence": "Hallo Tom, wie geht's?"
+        },
+        {
+            "de": "Es tut mir leid",
+            "ar": "أنا آسف",
+            "sentence": "Es tut mir leid, ich bin zu spät."
+        },
+        {
+            "de": "Viel Glück",
+            "ar": "حظًا موفقًا",
+            "sentence": "Viel Glück bei der Prüfung!"
+        },
+        {
+            "de": "Herzlichen Glückwunsch",
+            "ar": "تهانينا",
+            "sentence": "Herzlichen Glückwunsch zum Geburtstag!"
+        },
+        {
+            "de": "Prost",
+            "ar": "في صحتك",
+            "sentence": "Prost, auf deine Gesundheit!"
+        },
+        {
+            "de": "Genau",
+            "ar": "بالضبط",
+            "sentence": "Genau, das ist richtig."
+        },
+        {
+            "de": "Natürlich",
+            "ar": "طبعًا",
+            "sentence": "Kommst du mit? - Natürlich!"
+        },
+        {
+            "de": "Leider",
+            "ar": "للأسف",
+            "sentence": "Leider habe ich keine Zeit."
+        }
+    ]
 }
-   
